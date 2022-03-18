@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)...
 
-- 💞️ I’m looking to collaborate on [GitHub] ...
+- 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)
 
 - 📫 Fill free to reach me anytime at runashInc@outlook.com...
 
 <!---
 
-Vaibhavmurmu/Vaibhavmurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 You can click the Preview link to take a look at your changes.
 
