@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)
 
-- 📫 Fill free to reach me anytime at runashInc@outlook.com...
+- 📫 Reach me anytime at runashInc@outlook.com...
 
 <!---
 
