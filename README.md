@@ -3,7 +3,7 @@
 👋 Hello there !
 👏Welcome to GitHub Profile<br>
 🧗My name is Ram Muurmu @rammurmu<br>
-I am Innovation Driven Entrepreneur (IDE) Developer<br>
+I am Innovation Driven Entrepreneur (IDE) & Developer<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 Remote working @runash<br>
 🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)<br>
