@@ -2,15 +2,15 @@
 🚀 Startup and 🎓PhD Journey!<br>
 👋 Hello there !
 👏Welcome to GitHub Profile<br>
- - 🧗My name is Ram Muurmu @rammurmu
-
-- 👀 I’m interested in 📚 learning and 🧑‍💻 coding ...
-- 🧑‍💻 Remote working @runash
-- 🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)...
-- 📝 We make something people want
-- 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)..
-- 🧘 Discipline & potential is the backbone of journey...
-- 📫 Reach me anytime at runashInc@outlook.com...
+🧗My name is Ram Muurmu @rammurmu<br>
+I am Innovation Driven Entrepreneur (IDE) Developer<br>
+👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
+🧑‍💻 Remote working @runash<br>
+🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)<br>
+📝 We make something people want<br>
+💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
+🧘 Discipline & potential is the backbone of journey<br>
+📫 Reach me anytime at runashInc@outlook.com<br>
 
 <!---
 
