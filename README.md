@@ -3,7 +3,7 @@
 👋 Hello everyone !<br>
 👏Welcome to GitHub Profile<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
-🧑‍💻 Remote working @runash<br>
+🧑‍💻 Currently remote work at runash<br>
 🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)<br>
 📝 We make something people want<br>
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
