@@ -3,7 +3,7 @@
 ## 🚀 Startup and 🎓 PhD Journey<br>
 
 >👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
-🧑‍💻 Currently remote work at [RunAsh](url)<br>
+🧑‍💻 I'm currently remote work at [RunAsh Venture](url)<br>
 🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)<br>
 📝 We make something people want<br>
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
