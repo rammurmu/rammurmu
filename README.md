@@ -1,6 +1,6 @@
-**👋 Hello and Welcome**<br>
-# The Ram Murmu ReadME.md Project<br>
-## 🚀 Startup and 🎓 PhD Journey<br>
+**👋 Hello and Welcome**
+# The Ram Murmu ReadME.md Project 
+## 🚀 Startup and 🎓 PhD Journey 
 
 >👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 I'm currently remote work at [RunAsh Venture](url)<br>
