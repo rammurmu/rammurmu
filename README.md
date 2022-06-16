@@ -10,7 +10,7 @@
 🧘 Discipline & potential is the backbone of journey<br>
 📫 Reach me anytime at runashInc@outlook.com<br>
 >>>We 💖 and belive open source 
-# [The Open Source Education is Future](https://Wikipedia.com/moocs)
+# [The Open Source Education is Future](https://en.m.wikipedia.org/wiki/Massive_open_online_course)
 *Open source philosophies for [`code`](),[`data`](),and [`policy development`]()*
 <!---
 
