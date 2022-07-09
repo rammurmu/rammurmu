@@ -2,9 +2,11 @@
 # The Ram Murmu ReadME.md Project 
 ## 🚀 Startup and 🎓 PhD Journey 
 
->👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
+>👋Hi!<br>
+My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](url) and [CEO](url),[RunAsh](https://runash.in)<br>
+👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 I'm currently remote work at [RunAsh Venture](url)<br>
-🌱 I’m currently learning  [Y C Startup School](www.ycombinator.com)<br>
+🌱 I’m currently learning  [`MIT`](https://mit.com) [`London University`](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
 >>📝 We make something people want<br>
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
 🧘 Discipline & potential is the backbone of journey<br>
