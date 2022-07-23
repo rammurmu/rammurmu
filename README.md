@@ -58,6 +58,8 @@ We contribute to the platform we rely on to build and run RunAsh while also main
 See what's next on our roadmap and let us know if you have any suggestion oh, and by the way,we are always hiring talented,passionate people to join our team
 
 </details>
+CONTRIBUTING guid for more information on getting started<br>
+<b>Note:<b>
 <!---
 
 Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
