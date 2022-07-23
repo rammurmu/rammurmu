@@ -44,7 +44,8 @@ Learm more
 </p>
 </details>
 
-## An interconnected live retailers & influencers community 
+# An interconnected 
+## live retailers & influencers community 
 The opene source community is the ❤️ heart of RunAsh live retail streaming and fundamental to how we build software today
 <br>
 ### Contributing to the RunAsh ecosystem<br>
