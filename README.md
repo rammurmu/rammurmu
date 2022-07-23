@@ -12,7 +12,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 🧘 Discipline & potential is the backbone of journey<br>
 📫 Reach me anytime at runashInc@outlook.com<br>
 >>>We 💖 and belive open source 
-# [The Open Source [Project](url) & [Education](https://en.m.wikipedia.org/wiki/Massive_open_online_course) is Future
+# The Open Source [Project](https://runash.live) & [Education](https://en.m.wikipedia.org/wiki/Massive_open_online_course) is Future
 *Open source philosophies for [`code`](),[`data`](),and [`policy development`]()*
 <details><Summary>👇</Summary>
 <p>
