@@ -16,7 +16,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
 # The Open Source [Project](https://runash.live) & [Education](https://en.m.wikipedia.org/wiki/Massive_open_online_course) is Future
 *Open source philosophies for [`code`](),[`data`](),and [`policy development`]()*
-<details><Summary>👇</Summary>
+<details><Summary> Code Language</Summary>
 <p>
 Coding language
 
@@ -45,6 +45,7 @@ Learm more
 
 </p>
 </details>
+<details><Summary>RunAsh Community</Summary>
 
 ## An interconnected live retailers & influencers community 
 The opene source community is the ❤️ heart of RunAsh live retail streaming and fundamental to how we build software today
@@ -55,6 +56,8 @@ We contribute to the platform we rely on to build and run RunAsh while also main
 - https://runash.live <br>A live streaming hybrid marketplace for retailing 
 #### Appendex
 See what's next on our roadmap and let us know if you have any suggestion oh, and by the way,we are always hiring talented,passionate people to join our team
+
+</details>
 <!---
 
 Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
