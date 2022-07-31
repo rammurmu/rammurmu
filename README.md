@@ -6,7 +6,7 @@
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](url) and [CEO](url),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 I'm currently remote work at [RunAsh Venture](url)<br>
-🌱 I’m currently learning  [`MIT`](https://mit.com) [`London University`](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
+🌱 I’m currently learning  [`MIT`](https://mit.com) and [`London University`](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
 >>📝 We make something people want<br>
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
 🧘 Discipline & potential is the backbone of journey<br>
@@ -14,35 +14,32 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 >>>We 💖 and belive open source 
 # What does we make
 Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
-# The Open Source [Project](https://runash.live) & [Education](https://en.m.wikipedia.org/wiki/Massive_open_online_course) is Future
-*Open source philosophies for [`code`](),[`data`](),and [`policy development`]()*
-<details><Summary> Code Language</Summary>
+## Open source [project](https://runash.live) and [contribution](https://GitHub.com/open) is future 
+*Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]()*
+<details><Summary> Hybrid foundation</Summary>
 <p>
-Coding language
+framerwork and library
 
-```ruby
-   
-   
-Larn more
+```React   
+Hybrid static and React v18.0
 ```
 
-```javaScript
-
-
-Learn more
+```Next
+Next.js flexible React framework 
+```
+```Hybrid SSG and SSR
+Hybrid SSG and SSR
 ```
 
-```typeScript
-
-
-Learn more
+```TypeScript
+TypeScript v12.0.0
 ```
-
-```markdown
-
-Learm more
+```Babel
+Bebel
 ```
-
+```
+Turborepo
+```
 </p>
 </details>
 <details><Summary>RunAsh Community</Summary>
