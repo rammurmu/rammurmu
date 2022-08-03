@@ -14,11 +14,11 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 >>>We 💖 and belive open source 
 # What does we make
 Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
-## Open source [project](https://runash.live) and [contribution](https://GitHub.com/open) is future 
+## Open source [project](https://opensource.guide/) and [contribution](https://opensource.guide/) is future 
 *Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]()*
-<details><Summary> Hybrid foundation</Summary>
+<details><Summary>Software Development Kits</Summary>
 <p>
-framerwork and library
+Popular programing language and framework 
 
 ```React   
 Hybrid static and React v18.0
