@@ -20,47 +20,36 @@ Yes, today and tomorrow for we are building runash live streaming marketplace an
 <p>
 Popular programing language and framework 
 
-```React   
-Hybrid static and React 
-```
+`React`   
+`Hybrid static and React` 
 
-```Next
-Next.js flexible React framework 
-```
-```Hybrid SSG and SSR
-Hybrid SSG and SSR
-```
 
-```TypeScript
-TypeScript 
-```
+`Next`
+`Next.js flexible React framework` 
 
-```
-JavaScript
-```
+`Hybrid SSG and SSR`
 
-```Babel
-Bebel
-```
-```
-Turborepo
-```
-```
-Pro-tailwind
-```
-```
-Prettier
-```
-```
-NextAuth.js
-```
+`TypeScript`
+  
+`JavaScript`
 
-```
-Vercel
-```
-```
-PlanetScale
-```
+`Babel`
+  
+`Turborepo`
+  
+`Tailwind`  
+
+`Pro-tailwind`
+
+`Prettier`
+
+`NextAuth.js`
+
+`Vercel`
+  
+`PlanetScale`
+
+`Prisma`
 
 
 </p>
