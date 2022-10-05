@@ -21,7 +21,7 @@ Yes, today and tomorrow for we are building runash live streaming marketplace an
 Popular programing language and framework 
 
 ```React   
-Hybrid static and React v18.0
+Hybrid static and React 
 ```
 
 ```Next
@@ -32,8 +32,13 @@ Hybrid SSG and SSR
 ```
 
 ```TypeScript
-TypeScript v12.0.0
+TypeScript 
 ```
+
+```
+JavaScript
+```
+
 ```Babel
 Bebel
 ```
@@ -43,6 +48,20 @@ Turborepo
 ```
 Pro-tailwind
 ```
+```
+Prettier
+```
+```
+NextAuth.js
+```
+
+```
+Vercel
+```
+```
+PlanetScale
+```
+
 
 </p>
 </details>
