@@ -17,7 +17,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
 # [Open source today and future](https://opensource.guide) 
 *Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]()*
-<details><Summary>Hybrid technologies </Summary>
+<details><Summary>We use hybrid technologies </Summary>
 <p>
 Popular programing language and framework 
 
@@ -37,6 +37,10 @@ Popular programing language and framework
 `Babel`
   
 `Turborepo`
+
+`Monorepo`
+
+`Rust`
   
 `Tailwind`  
 
@@ -51,6 +55,18 @@ Popular programing language and framework
 `PlanetScale`
 
 `Prisma`
+
+`Rubi`
+
+`Storybook`
+
+`Jekelly`
+
+`Prisma`
+
+`aws`
+
+`GCP`
 
 
 </p>
