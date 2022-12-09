@@ -1,5 +1,5 @@
 **👋 Hello and 🎉 Welcome**
-# The Ram Murmu ReadME.md Open Source Project 
+# The Ram Murmu ReadME.md OS Project 
 ## 🚀 Startup and 🎓 PhD Journey 
 
 >👋Hi!<br>
