@@ -56,13 +56,11 @@ Popular programing language and framework
 
 `Prisma`
 
-`Rubi`
+`Ruby`
 
 `Storybook`
 
-`Jekelly`
-
-`Prisma`
+`Jeklly`
 
 `aws`
 
@@ -85,7 +83,7 @@ See what's next on our roadmap and let us know if you have any suggestion oh, an
 
 </details>
 CONTRIBUTING guid for more information on getting started<br>
-<b>Note:<b>
+<b>Note:</b> You can check out the RunAsh GitHub repository - your feedback and contributions are welcome!
 <!---
 
 Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
