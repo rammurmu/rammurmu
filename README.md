@@ -25,7 +25,7 @@ Popular programing language and framework
 `Hybrid static and React` 
 
 
-`Next`
+`Next.js v13`
 `Next.js flexible React framework` 
 
 `Hybrid SSG and SSR`
@@ -35,10 +35,14 @@ Popular programing language and framework
 `JavaScript`
 
 `Babel`
+
+`Turbopack`
   
 `Turborepo`
 
 `Monorepo`
+
+`Webpack`
 
 `Rust`
   
