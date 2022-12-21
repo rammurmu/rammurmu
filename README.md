@@ -7,7 +7,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 I'm currently remote work at [RunAsh Venture](https://runash.live)<br>
 **RunAsh Digital Innovation Technologies Private Limited**<br>
-🌱 I’m currently learning  [`MIT`](https://mit.com) and [`London University`](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
+🌱 I’m currently learning  [MIT](https://mit.com) and [London University](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
 >>📝 We make something people want<br>
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
 🧘 Discipline & potential is the backbone of journey<br>
@@ -37,8 +37,6 @@ Popular programing language and framework
 `Babel`
 
 `Turbopack`
-  
-`Turborepo`
 
 `Monorepo`
 
@@ -75,6 +73,9 @@ Popular programing language and framework
 </details>
 <details><Summary>RunAsh Community</Summary>
 
+
+
+
 ## An interconnected live retailers & influencers community 
 The opene source community is the ❤️ heart of RunAsh live retail streaming and fundamental to how we build software today
 <br>
@@ -88,6 +89,8 @@ See what's next on our roadmap and let us know if you have any suggestion oh, an
 </details>
 CONTRIBUTING guid for more information on getting started<br>
 <b>Note:</b> You can check out the RunAsh GitHub repository - your feedback and contributions are welcome!
+
+`WEB API` `DOMAIN EXPERT` `DEEPER DIVE` 
 <!---
 
 Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
