@@ -3,7 +3,7 @@
 ## 🚀 Startup and 🎓 PhD Journey 
 `Open source` `Open Learning` `Open Contribution`
 >👋Hi everyone!<br>
-My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](url) and [CEO](url),[RunAsh](https://runash.in)<br>
+My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the entrepreneur and hybrid developer<br>I'm the [Founder](url) and [CEO](url),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🧑‍💻 I'm currently remote work at [RunAsh Venture](https://runash.live)<br>
 **RunAsh Digital Innovation Technologies Private Limited**<br>
@@ -22,49 +22,7 @@ Yes, today and tomorrow for we are building runash live streaming marketplace an
 Popular programing language and framework 
 
 `React`   
-`Hybrid static and React` 
-
-
-`Next.js v13`
-`Next.js flexible React framework` 
-
-`Hybrid SSG and SSR`
-
-`Data fatching SWR or React Query`
-
-`TypeScript`
-  
-`JavaScript`
-
-`Babel`
-
-`Turbopack`
-
-`Monorepo`
-
-`Webpack`
-
-`Rust`
-  
-`Tailwind`  
-
-`Pro-tailwind`
-
-`Prettier`
-
-`NextAuth.js`
-
-`Vercel`
-  
-`PlanetScale`
-
-`Prisma`
-
-`Ruby`
-
-`Storybook`
-
-`Jeklly`
+`Hybrid static and React` `Next.js v13` `Next.js flexible React framework` `Hybrid SSG and SSR` `Data fatching SWR or React Query` `TypeScript` `JavaScript` `Babel` `Turbopack` `Monorepo` `Webpack` `Rust` `Tailwind`  `Pro-tailwind` `Prettier` `NextAuth.js` `Vercel` `PlanetScale` `Prisma` `Ruby` `Storybook` `Jeklly`
 
 `aws`
 
