@@ -12,7 +12,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the entreprene
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
 🧘 Discipline & potential is the backbone of journey<br>
 📫 Reach me anytime at runashInc@outlook.com<br>
->>>We 💖, belive and trust open source 
+>>>We 💖, belive/trust and  use open source 
 # What does we make
 Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
 # [Open source today and future](https://opensource.guide) 
