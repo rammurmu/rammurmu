@@ -8,7 +8,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the entreprene
 🧑‍💻 I'm currently remote work at [RunAsh Venture](https://runash.live)<br>
 **RunAsh Digital Innovation Technologies Private Limited**<br>
 🌱 I’m currently learning  [MIT](https://mit.com) and [London University](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
->> ## 📝 We make something people want
+>> ## 📝 We build new ways to use real experience 
 💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
 🧘 Discipline & potential is the backbone of journey<br>
 📫 Reach me anytime at runashInc@outlook.com<br>
@@ -54,7 +54,6 @@ CONTRIBUTING guid for more information on getting started<br>
 ```[tasklist]
 
 My task 
-
 
 https://github.com/rammurmu/runash.js
 
