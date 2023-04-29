@@ -11,7 +11,7 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 
 
 We build new ways to use real experience and
-I’m looking to collaborate on [Discussion](github.com/rammurmu/discussion),
+I’m looking to collaborate on [GitHub](github.com/rammurmu/),
 Discipline & potential is the backbone of journey.
 Reach me anytime at runashInc@outlook.com.
 We 💖, belive/trust and  use open source 
@@ -25,6 +25,8 @@ We 💖, belive/trust and  use open source
 
 
 Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]()
+
+Shape the future of live retail streaming 
 <details><Summary>RunAsh built with hybrid Technologies</Summary>
 <p>
 Popular programing language and framework 
