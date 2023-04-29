@@ -17,10 +17,8 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 We 💖, belive/trust and  use open source 
 
 
-**What does we make**
-
-
-Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store 
+<details><Summary>What does we make</Summary>
+<p>Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
 
 
 **Open source today and future**
