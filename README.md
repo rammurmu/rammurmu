@@ -10,10 +10,10 @@ My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](
 🌱 I’m currently learning  [MIT](https://mit.com) and [London University](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
 
 
-📝 We build new ways to use real experience <br>
-💞️ I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
-🧘 Discipline & potential is the backbone of journey<br>
-📫 Reach me anytime at runashInc@outlook.com<br>
+We build new ways to use real experience <br>
+I’m looking to collaborate on [GitHub](github.com/rammurmu)<br>
+Discipline & potential is the backbone of journey<br>
+Reach me anytime at runashInc@outlook.com<br>
 We 💖, belive/trust and  use open source 
 
 
