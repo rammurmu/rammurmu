@@ -1,4 +1,4 @@
-👋 Hello and 🎉 Welcome 
+👋 Hello & 🎉 Welcome 
 
 
 The Ram Murmu ReadME.md OS Project 
