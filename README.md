@@ -32,7 +32,7 @@ Shape the future of live retail streaming
 Popular programing language and framework 
 
 `React`   
-`Hybrid static and React` `Next.js v13` `Next.js flexible React framework` `Hybrid SSG and SSR` `Data fatching SWR or React Query` `TypeScript` `JavaScript` `Babel` `Turbopack` `Monorepo` `Webpack` `Rust` `Tailwind`  `Pro-tailwind` `Prettier` `NextAuth.js` `Vercel` `PlanetScale` `Prisma` `Ruby` `Storybook` `Jeklly` `tremor` react-chart`
+`Hybrid static and React` `Next.js v13` `Next.js flexible React framework` `Hybrid SSG and SSR` `Data fatching SWR or React Query` `TypeScript` `JavaScript` `Babel` `Turbopack` `Monorepo` `Webpack` `Rust` `Tailwind`  `Pro-tailwind` `Prettier` `NextAuth.js` `Vercel` `PlanetScale` `Prisma` `Ruby` `Storybook` `Jeklly` `tremor` `react-chart`
 
 `aws`
 
