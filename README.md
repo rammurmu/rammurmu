@@ -17,7 +17,7 @@ Reach me anytime at runashInc@outlook.com.
 We 💖, belive/trust and  use open source 
 
 
-<details><Summary>What does we make</Summary>
+<details><Summary>What does we make?</Summary>
 <p>Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
 
 
@@ -32,7 +32,7 @@ Shape the future of live retail streaming
 Popular programing language and framework 
 
 `React`   
-`Hybrid static and React` `Next.js v13` `Next.js flexible React framework` `Hybrid SSG and SSR` `Data fatching SWR or React Query` `TypeScript` `JavaScript` `Babel` `Turbopack` `Monorepo` `Webpack` `Rust` `Tailwind`  `Pro-tailwind` `Prettier` `NextAuth.js` `Vercel` `PlanetScale` `Prisma` `Ruby` `Storybook` `Jeklly` `tremor` `react-chart`
+`Hybrid static and React` `Next.js v13` `Next.js flexible React framework` `Hybrid SSG and SSR` `Data fatching SWR or React Query` `TypeScript` `JavaScript` `Babel` `Turbopack`  `Webpack` `Rust` `Tailwind`  `Pro-tailwind` `Prettier` `NextAuth.js` `Vercel` `PlanetScale` `Prisma` `Ruby` `Storybook` `Jeklly` `tremor` `react-chart`
 
 `aws`
 
