@@ -62,7 +62,7 @@ See what's next on our roadmap and let us know if you have any suggestion oh, an
 CONTRIBUTING guid for more information on getting started<br>
 <b>Note:</b> You can check out the runash .js  .jsx  .ts  .tsx live streaming open source GitHub repository - your feedback and contributions are welcome!
 
-`WEB API`  `LIVE API` or `LIVE STREAMING API` `LIVE ON DEMAND API` `DOMAIN EXPERT` `DEEPER DIVE` 
+`API`  `LIVE API` or `LIVE STREAMING API` `LIVE ON DEMAND API` `DOMAIN EXPERT` `DEEPER DIVE` 
 ```[tasklist]
 
 My task 
