@@ -1,9 +1,9 @@
 👋 Hello & 🎉 Welcome 
 
 
-The Ram Murmu ReadME.md OS Project 
+The Ram Murmu Open ReadME.
 ## 🚀 Startup and 🎓 PhD Journey 
-`Open source` `Open Learning` `Open Contribution`
+`Open source` `Open Learning` `Open Contribution` `Open Project`
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
