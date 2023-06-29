@@ -24,7 +24,7 @@ We 💖, belive/trust and  use open source
 **Open source today and future**
 
 
-Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]()
+Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`Open AI`](https://open.ai)
 
 Shape the future of live retail streaming 
 <details><Summary>RunAsh built with hybrid Technologies</Summary>
