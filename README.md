@@ -1,7 +1,4 @@
-👋 Hello & 🎉 Welcome 
-
-
-The Ram Murmu Open ReadME.
+👋 Hello, welcome to ram profile!
 ## 🚀 Startup and 🎓 PhD Journey 
 `Open source` `Open Learning` `Open Contribution` `Open Project`
 >👋Hi everyone!<br>
