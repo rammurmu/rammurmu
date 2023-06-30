@@ -1,6 +1,6 @@
-👋 Hello, welcome to ram profile!
+👋 Hello, welcome to rammurmu profile!
 ## 🚀 Startup and 🎓 PhD Journey 
-`Open source` `Open Learning` `Open Contribution` `Open Project`
+`Open source` `Open Learning` `Open Contribution` `Open Project` `Open AI`
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
@@ -24,7 +24,7 @@ We 💖, belive/trust and  use open source
 Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`Open AI`](https://open.ai)
 
 Shape the future of live retail streaming 
-<details><Summary>RunAsh built with hybrid Technologies</Summary>
+<details><Summary>RunAsh built with hybrid technologies</Summary>
 <p>
 Popular programing language and framework 
 
@@ -60,11 +60,8 @@ CONTRIBUTING guid for more information on getting started<br>
 
 `API`  `LIVE API` or `STREAMING API` `LIVE ON DEMAND API` `DOMAIN EXPERT` `DEEPER DIVE` 
 ```[tasklist]
-
 My task 
-
 https://github.com/rammurmu/runash.js
-
 Draft issue runash.js 
 ```
 
