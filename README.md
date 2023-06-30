@@ -1,4 +1,4 @@
-👋 Hello, welcome to rammurmu profile!
+🙏Welcome to rammurmu profile!
 ## 🚀 Startup and 🎓 PhD Journey 
 `Open source` `Open Learning` `Open Contribution` `Open Project` `Open AI`
 >👋Hi everyone!<br>
