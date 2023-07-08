@@ -1,6 +1,6 @@
 🙏Welcome to rammurmu profile!
 ## 🚀 Startup and 🎓 PhD Journey 
-`Open source` `Open Learning` `Open Contribution` `Open Project` `Open AI` `Open PR` `Open FIN` `Open e-tail`
+`Open source` `Open Learning` `Open Contribution` `Open Project` `Open AI` `Open PR` `Open Fintech` `Open e-tail`
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
