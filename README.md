@@ -13,7 +13,24 @@ Discipline & potential is the backbone of journey.
 Reach me anytime at runashInc@outlook.com.
 We 💖, belive/trust and  use open source 
 
-
+<div align="center">
+  <strong>
+    <h2 align="center"></h2>
+  </strong>
+  
+  <p align="center">
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/javascript-logo.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/typescript-logo.svg" width="40" height="40" />
+    </a>
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/react-logo.svg" width="40" height="40" />
+    </a>
+  </p>
+  </div>
+  
 <details><Summary>What does we make?</Summary>
 <p>Yes, today and tomorrow for we are building runash live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
 
