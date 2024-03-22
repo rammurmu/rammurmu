@@ -4,7 +4,7 @@
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
-🌱 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://mit.com)<br>We are part of [Y Combinator Startup School](www.ycombinator.com)<br>
+🌱 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://www.mit.edu/)<br>We are part of [Y Combinator Startup School](https://www.ycombinator.com/)<br>
 
 
 We build new ways to use real experience and
