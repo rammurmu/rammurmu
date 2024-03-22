@@ -1,10 +1,10 @@
 🙏Welcome to rammurmu profile!
 ## 🚀 Startup and 🎓 PhD Journey 
-`Open source` `Open Learning` `Open Contribution` `Open Project` `Open AI` `Open PR` `Open Fintech` `Open e-tail`
+`MIT` `MIT Licence` `Open source` `Open Learning` `runash.ai` `Cardless Banking `
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
-🌱 I’m currently learning  [MIT](https://mit.com) and [London University](https://londonuniversity.com)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
+🌱 I’m currently learning [Massachusetts Institute of Technology](https://mit.com) (MIT)<br>We are part of [Y C Startup School](www.ycombinator.com)<br>
 
 
 We build new ways to use real experience and
@@ -38,7 +38,7 @@ We 💖, belive/trust and  use open source
 **Open source today and future**
 
 
-Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`Open AI`](https://open.ai)
+Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`AI`](https://open.ai)
 
 Shape the future of live retail streaming 
 <details><Summary>RunAsh built with hybrid technologies</Summary>
