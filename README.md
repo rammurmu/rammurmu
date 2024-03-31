@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 MIT License
 
-Copyright 2024 Ram Murmu
+Copyright (c) 2024 Ram Murmu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
