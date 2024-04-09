@@ -1,6 +1,6 @@
 🙏Welcome to rammurmu profile!
 ## 🚀 Startup and 🎓 PhD Journey 
-`MIT` `MIT license` `Open source` `Open Learning` `runash.ai` `Cardless Banking ` `Live Streaming `
+`MIT` `MIT license` `Open source` `Open Learning` `RunAsh.AI` `Cardless Banking ` `Live Streaming `
 >👋Hi everyone!<br>
 My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
 👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
@@ -40,7 +40,7 @@ We 💖, belive/trust and  use open source
 
 Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`AI`](https://open.ai)
 
-Shape the future of live retail streaming 
+Shape the future of live streaming technology 
 <details><Summary>RunAsh built with hybrid technologies</Summary>
 <p>
 Popular programing language and framework 
@@ -64,9 +64,9 @@ The opene source community is the ❤️ heart of runash live retail streaming a
 <br>
 Contributing to the RunAsh ecosystem<br>
 We contribute to the platform we rely on to build and run hybrid runash live streaming while also maintaining our own open source project like<br>
-- https://runash.in <br>A live retail streaming platform<br>
-- https://runash.live <br>A live sell streaming platform 
- 
+- https://runash.in <br>RunAsh is an AI powered live streaming platform<br>
+- https://runash.live <br>RunAsh is an AI powered live streaming platform 
+- https://runash.ai <br>RunAsh AI is an creating video from text model
  
 Appendex
 See what's next on our roadmap and let us know if you have any suggestion oh, and by the way,we are always hiring talented,passionate people to join our team
