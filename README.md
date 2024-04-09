@@ -4,13 +4,17 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-🙏Welcome to rammurmu profile!
-## 🚀 Startup and 🎓 PhD Journey 
+Hi there 👋
+
+## Introducing
+
+
+ 🚀 Startup and 🎓 PhD Journey 
+ 
 `MIT` `MIT license` `Open source` `Open Learning` `RunAsh.AI` `Cardless Banking ` `Live Streaming `
->👋Hi everyone!<br>
-My name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder](https://runash.in) and [CEO](https://runash.in),[RunAsh](https://runash.in)<br>
-👀 I’m interested in 📚 learning and 🧑‍💻 coding<br>
-🌱 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://www.mit.edu/)<br>We are part of [Y Combinator Startup School](https://www.ycombinator.com/)<br>
+>Hi, I'm [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
+I’m interested in 📚 learning and 🧑‍💻 coding<br>
+🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
 
 
 We build new ways to use real experience and
