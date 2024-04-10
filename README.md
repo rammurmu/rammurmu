@@ -9,9 +9,10 @@ Hi there 👋
 ## Introducing
 
 
- 🚀 Startup and 🎓 PhD Journey 
+ Ram Murmu<br>
+ Start-Up and PhD Journey 
  
-`MIT` `MIT license` `Open source` `Open Learning` `RunAsh.AI` `Cardless Banking ` `Live Streaming `
+`MIT` `Y Combinator` `GitHub`
 >Hi, I'm [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
@@ -88,8 +89,8 @@ CONTRIBUTING guid for more information on getting started<br>
 `API`  `LIVE API` or `STREAMING API` `LIVE ON DEMAND API` `DOMAIN EXPERT` `DEEPER DIVE` 
 ```[tasklist]
 My task 
-https://github.com/rammurmu/runash.js
-Draft issue runash.js 
+https://github.com/rammurmu
+Draft issue open runash
 ```
 
 <!---
@@ -100,25 +101,5 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-MIT License
 
-Copyright (c) 2024 Ram Murmu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
