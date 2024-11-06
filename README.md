@@ -13,7 +13,7 @@ Hi there 👋
  Start-Up and PhD Journey 
  
 `MIT` `Y Combinator` `GitHub`
->Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
+>Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
 
@@ -43,11 +43,13 @@ We 💖, belive/trust and  use open source
   </div>
 
  ## What does we make
+ 
 
 <details><Summary>Learn more</Summary>
 <p>Yes, today and tomorrow for we are building AI-powered live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
 
-## Shape the future of technology 
+## Shape the future of technology
+
 
 <details><Summary>Learn more </Summary>
 <p>
@@ -55,7 +57,7 @@ The React Framework<br>
   
 **Open source today and future**
   
-Open source philosophies for [`code`](),[`data`](), [`policy development`](),and [`culture`]() [`AI`](https://open.ai)
+Open source philosophies for `code` `data` `policy development` ,and `culture` `AI`
 
 
 </p>
