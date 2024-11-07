@@ -57,7 +57,7 @@ The React Framework<br>
   
 **Open source today and future**
   
-Open source philosophies for `code` `data` `policy development` ,and `culture` `AI`
+Open source philosophies for <b>`code` `data` `policy development` ,and `culture` `AI`</b>
 
 
 </p>
