@@ -42,7 +42,7 @@ We 💖, belive/trust and  use open source
   </p>
   </div>
 
- ## What does we make
+ ## What does we make ##
  
 
 <details><Summary>Learn more</Summary>
@@ -53,11 +53,11 @@ We 💖, belive/trust and  use open source
 
 <details><Summary>Learn more </Summary>
 <p>
-The React Framework<br>
+
+OpenSource today & future
+
   
-**Open source today and future**
-  
-Open source philosophies for <b>`code` `data` `policy development` ,and `culture` `AI`</b>
+<b>AI Live Streaming</b>
 
 
 </p>
@@ -70,6 +70,7 @@ The opene source community is the ❤️ heart of runash live retail streaming a
 ## Appendex
 See what's next on our roadmap and let us know if you have any suggestion oh, and by the way,we are always hiring talented,passionate people to join our team
 
+
 ## My task
 
 `API`  `LIVE` or `STREAMING` `LOD` `AI`
@@ -78,6 +79,7 @@ My task
 https://github.com/rammurmu
 Draft issue open runash
 ```
+
 
 ## Contribution 
 </details>
