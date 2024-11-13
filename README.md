@@ -86,11 +86,7 @@ Draft issue open runash
 Contributing to the ecosystem<br>
 We contribute to the platform we rely on to build and run live streaming while also maintaining our own open source project <br>
 
-- https://runash.in 
-
-- https://runash.in/live 
-
-- https://runash.in/ai 
+- https://runash.in/live/ai
 
 Contribution guid for more information on getting started<br>
 <b>Note:</b> You can check out the runash live streaming open source GitHub repository - your feedback and contributions are welcome!
