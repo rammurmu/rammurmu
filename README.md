@@ -53,38 +53,11 @@ We 💖, belive/trust and  use open source
 <details><Summary>Learn more</Summary>
 <p>Yes, today and tomorrow for we are building AI-powered live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
 
-## Shape the future 
-
-
-<details><Summary>Learn more </Summary>
-<p>
-
-OpenSource today & future
-
-  
-<b>AI Live Streaming</b>
-
-
-</p>
-</details>
 <details><Summary>Learn more</Summary>
 
 An interconnected live retailers & influencers community 
 The opene source community is the ❤️ heart of runash live retail streaming and fundamental to how we build software today
  
-## Appendex
-See what's next on our roadmap and let us know if you have any suggestion oh, and by the way,we are always hiring talented,passionate people to join our team
-
-
-## My task
-
-`API`  `LIVE` or `STREAMING` `LOD` `AI`
-```[tasklist]
-My task 
-https://github.com/rammurmu
-Draft issue open runash
-```
-
 
 ## Contribution 
 </details>
