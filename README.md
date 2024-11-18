@@ -198,35 +198,10 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## FAQ
-
-#### 1 How to contribute?
-
-Join with us on GitHub 
-
-#### 2 How to help one another?
-
-Join with me 
-
-
-## Features
-
-- Future's Idea 
-- Open Source 
-- Open Learning 
-- Help one another 
-
 
 ## Feedback
 
 If you have any feedback, please reach out to us at github.com/rammurmu
-
-
-## 🚀 About Me
-I'm a entrepreneur and full stack developer...
-
-
-# Hi, I'm Ram Murmu! 👋
 
 
 ## 🔗 Links
@@ -234,27 +209,6 @@ I'm a entrepreneur and full stack developer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rammurmu)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rammurmuu)
 
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on RunAsh
-
-🧠 I'm currently learning MIT Y Combinator 
-
-👯‍♀️ I'm looking to collaborate on GitHub 
-
-🤔 I'm looking for help with Open Source 
-
-💬 Ask me about @rammurmuu
-
-📫 How to reach me @rammurmu@outlook.com
-
-😄 Pronouns her
-
-⚡️ Fun fact Make something better 
-
-
-## 🛠 Skills
-Javascript, Typescript, React, Ruby, Paython, HTML, CSS...
 
 
 ## Installation
@@ -290,12 +244,6 @@ Here are some related projects
 
 [Awesome README](https://github.com/rammurmu)
 
-
-## Roadmap
-
-- Make something people want 
-
-- Make billion dollar company 
 
 
 ## Run Locally
