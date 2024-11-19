@@ -42,7 +42,7 @@ We 💖, belive/trust and  use open source
   </p>
   </div>
 
-  ## Connect with us 
+  ## Reach me on
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rammurmu)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rammurmuu)
 
@@ -69,15 +69,6 @@ https://runash.in/live/ai
 Contribution guid for more information on getting started<br>
 <b>Note:</b> You can check out the runash live streaming open source GitHub repository - your feedback and contributions are welcome!
 
-  
-## ReadMe.Md
-
-RamMurmu ReadMe.Md is open source and open learning library 
-
-## Authors
-
- [@rammurmu](https://www.github.com/rammurmu)
-
 ## Licence 
 [MIT](https://chooselicense.com/licenses/mit/)
 
@@ -86,8 +77,12 @@ RamMurmu ReadMe.Md is open source and open learning library
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Feedback
+Give feedback,@ rammurmu@outlook.in
 
-If you have any feedback, please reach out to us at rammurmu@outlook.in
+## Authors
+
+ [@RamMurmu](https://www.github.com/rammurmu)
+ 
 
 
 
