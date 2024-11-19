@@ -7,9 +7,8 @@
 Hi there 👋,<br>
 My name is ram murmu, I'm a entrepreneur and developer. You might recognize me as github's @rammurmu
  
->👩‍💻 I'm currently working on RunAsh
-
->🧠 I'm currently learning MIT Y Combinator 
+>👩‍💻 I'm currently working on RunAsh<br>
+🧠 I'm currently learning MIT Y Combinator 
 
 
 
@@ -26,7 +25,8 @@ My name is ram murmu, I'm a entrepreneur and developer. You might recognize me a
 ## Speciality 
 
 - Future's Idea 
-- Open Source 
+- Open Source
+- Open Source AI
 - Open Learning 
 - Help one another 
 
