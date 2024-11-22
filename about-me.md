@@ -24,9 +24,5 @@ My name is ram murmu, I'm a entrepreneur and developer. You might recognize me a
 
 ## Speciality 
 
-- Future's Idea 
-- Open Source
-- Open Source AI
-- Open Learning 
-- Help one another 
+``Future's Idea `` ``Open Source`` ``Open Source AI`` ``Open Learning`` ``Help one another``
 
