@@ -10,19 +10,21 @@ I started coding in 2018 and today through 7 years of hard work, dedication, com
 >👩‍💻 I'm currently working on RunAsh<br>
 🧠 I'm currently learning MIT Y Combinator 
 
+## 🎓 Background
+- MIT BS Computer Science 2025-Present
 
 
-## 🛠 Skills
+## 🧑‍💻 Coding  🛠Skills
 ``Javascript`` ``Typescript``  ``React`` ``Ruby``  ``Paython`` ``HTML`` ``CSS``
 
 
-## Roadmap
+## 🛣️ Roadmap
 
 - Make something people want 
 
 - Make billion dollar company
 
-## Speciality 
+## 🌁 Speciality 
 
 ``Future's Idea `` ``Open Source`` ``Open Source AI`` ``Open Learning`` ``Help one another``
 
