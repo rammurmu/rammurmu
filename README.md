@@ -43,7 +43,11 @@ We 💖, belive/trust and  use open source
   </div>
 
   ## Reach me on
-
+   [GitHub](https://github.com/rammurmu/github.svg)    [Copilot](https://github.com/rammurmu/github.svg).  [Next.js](https://github.com/rammurmu/github.svg).  [In](https://github.com/rammurmu/github.svg).  [X](https://github.com/rammurmu/github.svg)
+   
+   
+   
+   
 
  ## What does we make ##
  
