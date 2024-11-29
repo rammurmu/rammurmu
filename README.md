@@ -43,7 +43,10 @@ We 💖, belive/trust and  use open source
   </div>
 
   ## Reach me on
-   [GitHub](https://github.com/rammurmu/github.svg)    [Copilot](https://github.com/rammurmu/github.svg).  [Next.js](https://github.com/rammurmu/github.svg).  [In](https://github.com/rammurmu/github.svg).  [X](https://github.com/rammurmu/github.svg)
+  <a href="https://github.com/rammurmu">
+   <image src="https://github.com/rammurmu/github.svg" width="80" height"80" /></a>
+     
+   [In](https://github.com/rammurmu/github.svg).  [X](https://github.com/rammurmu/github.svg)
    
    
    
