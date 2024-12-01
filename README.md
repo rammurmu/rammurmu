@@ -44,9 +44,14 @@ We 💖, belive/trust and  use open source
 
   ## Reach me on
   <a href="https://github.com/rammurmu">
-   <image src="https://github.com/rammurmu/github.svg" width="80" height"80" /></a>
-     
-   [In](https://github.com/rammurmu/github.svg).  [X](https://github.com/rammurmu/github.svg)
+   <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg" width="40"     height="40" />
+   </a>
+     <a href="">
+ <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/linkedin.svg" width="40" height="40" />
+     </a>
+     <a href="">
+       <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/x.svg" width="40" height="40" />
+     </a>
    
    
    
