@@ -43,6 +43,12 @@ We 💖, belive/trust and  use open source
   </div>
 
   ## Reach me on
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg"
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg"
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
   <a href="https://github.com/rammurmu">
    <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg" width="30"     height="30" />
    </a> 
