@@ -89,7 +89,7 @@ Contribution guid for more information on getting started<br>
 
 
 ## Feedback
-Give feedback,@ rammurmu@outlook.in
+**[Send feedback](rammurmu@outlook.in)**
 
 ## Authors
 
