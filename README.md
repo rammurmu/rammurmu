@@ -55,7 +55,12 @@ We 💖, belive/trust and  use open source
    <a href="https://x.com/rammurmuu">
        <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/x.svg" width="30" height="30" />
      </a>
-   
+
+
+     
+   <a href='https://github.com/rammurmu'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
    
    
    
