@@ -72,9 +72,10 @@ We 💖, belive/trust and  use open source
 
 <details><Summary>Learn more</Summary>
 
-An interconnected live retailers & influencers community 
-The opene source community is the ❤️ heart of runash live retail streaming and fundamental to how we build software today
+An interconnected live seller community 
+The opene seller community is the ❤️ heart of runash AI-Powered live streaming platform and fundamental to how we build software today
  
+>Join us in shaping the future of technology 
 
 ## Contribution 
 </details>
