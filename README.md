@@ -16,13 +16,13 @@ Hi there 👋
 >Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" />
-</a> I'm a developer <br>
+</a> I'm a Developer <br>
 
 I’m interested in 📚 learning and 🧑‍💻 coding<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
 
 
-We build new ways to use real experience and
+We're committed to build new ways to make real sell experience and
 I’m looking to collaborate on [GitHub](github.com/rammurmu/),
 Discipline & potential is the backbone of journey.
 Reach me anytime at runashInc@outlook.com.
