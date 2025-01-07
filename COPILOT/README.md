@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m currently working on some exciting projects.
-- 📫 How to reach me: [rammurmu@outlook.in](mailto:rammurmu@outlook.in)
+- 📫 How to reach me: [rammurmu@outlook.in](mailto:email@runash.in)
 - 📝 I regularly write articles on [R Blog](https://yourblog.example.com)
 
 ## My Skills
