@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m currently working on some exciting projects.
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
-- 📝 I regularly write articles on [Your Blog](https://yourblog.example.com)
+- 📫 How to reach me: [rammurmu@outlook.in](mailto:rammurmu@outlook.in)
+- 📝 I regularly write articles on [R Blog](https://yourblog.example.com)
 
 ## My Skills
 
@@ -20,11 +20,15 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 
 Here are some of my notable projects:
 
-### Project 1: [Project Name](https://github.com/rammurmu/project-1)
+### Project 1: [runash.in](https://github.com/rammurmu/project-1)
 - Description: A brief description of what the project does.
 - Technologies: List of technologies used.
 
-### Project 2: [Project Name](https://github.com/rammurmu/project-2)
+### Project 2: [runash.in/live](https://github.com/rammurmu/project-2)
+- Description: A brief description of what the project does.
+- Technologies: List of technologies used.
+
+### Project 2: [runash.in/ai](https://github.com/rammurmu/project-2)
 - Description: A brief description of what the project does.
 - Technologies: List of technologies used.
 
@@ -34,8 +38,8 @@ Here are some of my notable projects:
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.example.com)
+- [LinkedIn](https://linkedin.com/in/rammurmu)
+- [Twitter](https://twitter.com/rammurmuu)
+- [Personal Website](https://github.com/rammurmu)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just chat about tech.
