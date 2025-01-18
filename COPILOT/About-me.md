@@ -23,9 +23,9 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 
 Here are a few projects I've worked on:
 
-### [Project 1: Project Name](https://github.com/rammurmu/project-1)
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** List of technologies used.
+### [Project 1: RunAsh](https://github.com/rammurmu/project-1)
+- **Description:** An AI-powered live streaming platform .
+- **Technologies Used:** webRtc, socket.io.
 
 ### [Project 2: Project Name](https://github.com/rammurmu/project-2)
 - **Description:** A brief description of what the project does.
