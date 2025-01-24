@@ -4,7 +4,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://">
 </picture>
 
-Hi there 👋
+Hi there, I'm RamMurmu 👋<br>
+Welcome to my GitHub profile! I'm a passionate developer with an interest in various technologies and a love for continuous learning.
 
 ## Introducing
 
