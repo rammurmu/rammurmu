@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
  Ram Murmu<br>
  Start-Up and PhD Journey 
  
-`MIT` `Y Combinator` `GitHub`
+`MIT` `Y Combinator` `GitHub` `AI` `ML` 
 >Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" />
