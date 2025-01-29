@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="30" height="30" />
 </a> I'm a Developer <br>
 
-I’m interested in 📚 learning and 🧑‍💻 coding<br>
+I’m interested in 📚 AI & ML learning and 🧑‍💻 programming & coding<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
 
 
