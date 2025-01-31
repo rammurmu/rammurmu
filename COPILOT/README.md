@@ -7,30 +7,30 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 I’m currently working on some exciting projects.
 - 📫 How to reach me: [rammurmu@outlook.in](mailto:email@runash.in)
-- 📝 I regularly write articles on [R Blog](https://yourblog.example.com)
+- 📝 I regularly write articles on [RamMurmuBlog](https://runash.in/blog)
 
 ## My Skills
 
-- **Languages**: Python, JavaScript, C++, Java
+- **Languages**: Python, JavaScript, typeScript, Ruby, C++
 - **Web Development**: HTML, CSS, React, Node.js
-- **Database**: MySQL, MongoDB
-- **Tools & Platforms**: Git, Docker, Kubernetes, AWS
+- **Database**: MySQL, MongoDB,
+- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, Copilot,Vercel 
 
 ## Projects
 
 Here are some of my notable projects:
 
-### Project 1: [runash.in](https://github.com/rammurmu/project-1)
-- Description: A brief description of what the project does.
-- Technologies: List of technologies used.
+### Project 1: [runash.in](https://github.com/rammurmu/ai)
+- Description: AI powered live streaming company .
+- Technologies: Open Source AI.
 
-### Project 2: [runash.in/live](https://github.com/rammurmu/project-2)
-- Description: A brief description of what the project does.
-- Technologies: List of technologies used.
+### Project 2: [runash.in/live](https://github.com/rammurmu/live-buy)
+- Description: AI powered live streaming marketplace.
+- Technologies: Open Source AI.
 
-### Project 2: [runash.in/ai](https://github.com/rammurmu/project-2)
-- Description: A brief description of what the project does.
-- Technologies: List of technologies used.
+### Project 3: [runash.in/ai](https://github.com/rammurmu/live-sell)
+- Description: AI powered live shopping platform .
+- Technologies: Open Source AI.
 
 ## GitHub Stats
 
