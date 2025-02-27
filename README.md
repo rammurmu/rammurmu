@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 >Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" />
-</a> I'm a Developer <br>
+</a> I'm a full stack AI Developer <br>
 
 I’m interested in <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" /> AI & ML learning and 🧑‍💻 programming & coding<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
