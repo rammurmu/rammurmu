@@ -5,7 +5,7 @@
 </picture>
 
 Hi there, I'm RamMurmu 👋<br>
-Welcome to my GitHub profile! I'm a passionate developer with an interest in various technologies and a love for continuous learning.
+Welcome to my GitHub profile! I'm a passionate full stack AI developer with an interest in various technologies and a love for continuous learning.
 
 ## Introducing
 
