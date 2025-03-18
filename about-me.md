@@ -1,30 +1,23 @@
-##  🚀 About me
+# About Me
 
+👋 Hi, I'm Ram Murmu, a full stack AI developer and the Founder & CEO of RunAsh. I'm passionate about Artificial Intelligence, Machine Learning, and building innovative solutions.
+
+## Education
+- Massachusetts Institute of Technology (MIT)
+
+## Interests
+- AI & ML
+- Programming & Coding
+- Open Source
+
+## Achievements
+- Part of Y Combinator
+- Building AI-powered live streaming marketplace
+
+## Contact
+- Email: rammurmu@outlook.in
+- GitHub: [rammurmu](https://github.com/rammurmu)
 
 <!-- TO DO: add more details about me later -->
-``Bio``
 
-Hi there 👋,<br>
-My name is ram murmu, I'm a entrepreneur and developer. You might recognize me as github's @rammurmu
-I started coding in 2018 and today through 7 years of hard work, dedication, commitment and discipline I am working as a Software Engineer cum Developer.
->👩‍💻 I'm currently working on RunAsh<br>
-🧠 I'm currently learning MIT Y Combinator 
-
-## 🎓 Background
-- MIT BS Computer Science 2025-Present
-
-
-## 🧑‍💻 Coding  🛠Skills
-``Javascript`` ``Typescript``  ``React`` ``Ruby``  ``Paython`` ``HTML`` ``CSS``
-
-
-## 🛣️ Roadmap
-
-- Make something people want 
-
-- Make billion dollar company
-
-## 🌁 Speciality 
-
-``Future's Idea `` ``Open Source`` ``Open Source AI`` ``Open Learning`` ``Help one another``
 
