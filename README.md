@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer with an i
  Ram Murmu<br>
  Start-Up and PhD Journey 
  
-`MIT` `Y Combinator` `GitHub` `AI` `ML` 
+`MIT` `Y Combinator` `Open Source` `GitHub` ` Huggingface` `Artificial Intelligent` `Machine Learning` `Deep Learning` `Computer Vision` `Natural Language Processing` `Video Classification` `Programming` `Python` `Data Visualization` `AI Ethics` `Feature Engineering` `Promt Engineering` `Progressiv Web Application`
 >Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" />
@@ -27,7 +27,7 @@ We're committed to build new ways to make real sell experience and
 I’m looking to collaborate on [GitHub](github.com/rammurmu/),
 Discipline & potential is the backbone of journey.
 Reach me anytime at runashInc@outlook.com.
-We 💖, belive/trust and  use open source 
+We 💖, belive/trust and  use [open source](https://opensource.guide/) 
 
 <div align="center">
   <strong>
