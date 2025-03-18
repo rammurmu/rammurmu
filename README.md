@@ -44,6 +44,15 @@ We 💖, belive/trust and  use [open source](https://opensource.guide/)
     <a href="https://www.runash.in">
       <img src="https://www.embla-carousel.com/react-logo.svg" width="80" height="80" />
     </a>
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/react-logo.svg" width="80" height="80" />
+    </a>
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/react-logo.svg" width="80" height="80" />
+    </a>
+    <a href="https://www.runash.in">
+      <img src="https://www.embla-carousel.com/react-logo.svg" width="80" height="80" />
+    </a>
   </p>
   </div>
 
@@ -66,7 +75,11 @@ We 💖, belive/trust and  use [open source](https://opensource.guide/)
    
 
  ## What does we make ##
+ We learn and make 
  
+ **Learn:** `Artificial Intelligent` `Machine Learning` `Deep Learning` `Computer Vision` `Natural Language Processing` `Video Classification` `Programming` `Python` `JavaScript` `TypeScript` `React` `Node.js` `Data Visualization` `AI Ethics` `Feature Engineering` `Promt Engineering` 
+
+**Make:** `Open Source Project` `RunAsh` `RunAsh live` `RunAshChat` `RunAsh AI` `Video Classification Model` `Progressive Web Application ` 
 
 <details><Summary>Learn more</Summary>
 <p>Yes, today and tomorrow for we are building AI-powered live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
