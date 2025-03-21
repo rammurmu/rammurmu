@@ -22,20 +22,20 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
  Start-Up and PhD Journey 
  
 `MIT` `Y Combinator` `Open Source` `GitHub` ` Huggingface` `Artificial Intelligent` `Machine Learning` 
->Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [Founder ](https://runash.in)[& CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
+>Hi,my name is [Ram Murmu](https://github.com/in/linkedin.com/rammurmu)<br>I'm the [President](https://runash.in)[ & CEO](https://runash.in)[,RunAsh](https://runash.in)<br>
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" />
 </a> I'm a full stack AI Developer <br>
 
 I’m interested in <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" /> AI & ML learning and 🧑‍💻 programming & coding<br>
-🎓 I’m currently learning [Massachusetts Institute of Technology](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator](https://www.ycombinator.com/)<br>
+🎓 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator (YC)](https://www.ycombinator.com/runash)<br>
 
 
-We're committed to build new ways to make real sell experience and
+We're committed to build new ways to make real sell automative and experience and
 I’m looking to collaborate on [GitHub](github.com/rammurmu/),
 Discipline & potential is the backbone of journey.
 Reach me anytime at runashInc@outlook.com.
-We 💖, belive/trust and  use [open source](https://opensource.guide/) 
+We 💖, belive/trust and  use [open source stack](https://opensource.guide/) 
 
 <div align="center">
   <strong>
