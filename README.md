@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
 > Ram Murmu JOURNEY 
 
 
-|              |                |               |             |
-| :---         |     :---:      |          ---: |       ---:  |
-| MIT          | Y Combinator   | Startup       | PhD         |
-|              |                |               |             |
+|       |              |                |               |             |              |          |      |
+| :---  | :---         |     :---:      |          ---: |       ---:  |        ---:  |    ---:  |---:  |
+|       | MIT          | Y Combinator   | Startup School| GitHub      | HuggingFace  |  Kaggle  |      |
+|       |              |                |               |             |              |          |      |
 
 
 
@@ -96,9 +96,43 @@ We 💖, belive/trust and  use [open source stack](https://opensource.guide/)
  ## What does we learn and make ##
  We learn and make 
  
- **Learn:** **`Artificial Intelligent`** `Machine Learning` `Deep Learning` `Computer Vision` `Natural Language Processing` `Video Classification` `Programming` `Python` `JavaScript` `TypeScript` `React` `Node.js` `Data Visualization` `AI Ethics` `Feature Engineering` `Promt Engineering` 
+ 
+<details><Summary>🧑‍💻We Learn</Summary>
+  <p>
+    
+- Artificial Intelligent
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Video Classification
+- Programming
+- Python
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Data Visualization
+- AI Ethics
+- Feature Engineering
+- Promt Engineering` 
+  </p>
 
-**Make:** `Open Source Project` `RunAsh` `RunAsh live` `RunAshChat` `RunAsh AI` `Video Classification Model` `Progressive Web Application ` 
+
+<details><Summary>🧑‍💻We Make</Summary>
+  <p>
+
+    
+- Open Source Project
+- RunAsh
+- RunAsh live
+- RunAshChat
+- RunAsh AI
+- Video Classification Model
+- Progressive Web Application
+  </p>
+
+
 
 <details><Summary>Learn more</Summary>
 <p>Yes, today and tomorrow for we are building AI-powered live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
