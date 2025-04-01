@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
 
 
 |🎓       |  <img src="assets/images/MIT.png" width="40" height="40" />          |<img src="assets/images/YC.png" width="40" height="40" />                       |<img src="assets/images/github.svg" width="40" height="40" />           |<img src="assets/images/hugging.png" width="40" height="40" />            |<img src="assets/images/Kaggle.svg" width="40" height="40" />       |   🎓  |
-| :---  | :---         |     :---:      |       ---:  |        ---:  |    ---:  |---:  |
+| :---  | :---         |     :---:      |       ---:  |       :---:  |    ---:  |---:  |
 | ✨    | MIT          | Y Combinator   | GitHub      | HuggingFace  |  Kaggle  |✨    |
 |       |              |                |             |              |          |      |
 
@@ -70,6 +70,8 @@ We 💖, belive and  use [open source stack](https://opensource.guide/)
     </a>
   </p>
   </div>
+  
+##
 
   ## Reach me on
 <picture>
@@ -91,7 +93,7 @@ We 💖, belive and  use [open source stack](https://opensource.guide/)
        <img src="assets/images/linkedin.svg" width="30"       height="30" />
      </a>
    
-   
+ ##  
 
  ## What does we learn and make ##
  We learn and make 
