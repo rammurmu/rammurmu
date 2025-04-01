@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
 > Ram Murmu JOURNEY 
 
 
-|🎓       |  <img src="assets/images/MIT.png" width="80" height="80" />          |<img src="assets/images/YC.png" width="80" height="80" />                       |<img src="assets/images/github.svg" width="80" height="80" />           |<img src="assets/images/hugging.png" width="80" height="80" />            |<img src="assets/images/Kaggle.svg" width="80" height="80" />       |   🎓  |
+|🎓       |  <img src="assets/images/MIT.png" width="40" height="40" />          |<img src="assets/images/YC.png" width="40" height="40" />                       |<img src="assets/images/github.svg" width="40" height="40" />           |<img src="assets/images/hugging.png" width="40" height="40" />            |<img src="assets/images/Kaggle.svg" width="40" height="40" />       |   🎓  |
 | :---  | :---         |     :---:      |       ---:  |        ---:  |    ---:  |---:  |
 | ✨    | MIT          | Y Combinator   | GitHub      | HuggingFace  |  Kaggle  |✨    |
 |       |              |                |             |              |          |      |
@@ -51,22 +51,22 @@ We 💖, belive and  use [open source stack](https://opensource.guide/)
   
   <p align="center">
     <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />
+      <img src="https://www.embla-carousel.com/javascript-logo.svg" width="60" height="60" />
     </a>
     <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/typescript-logo.svg" width="80" height="80" />
+      <img src="https://www.embla-carousel.com/typescript-logo.svg" width="60" height="60" />
     </a>
     <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/react-logo.svg" width="80" height="80" />
+      <img src="https://www.embla-carousel.com/react-logo.svg" width="60" height="60" />
     </a>
     <a href="https://www.runash.in">
-      <img src="assets/images/python.png" width="80" height="80" />
+      <img src="assets/images/python.png" width="60" height="60" />
     </a>
     <a href="https://www.runash.in">
-      <img src="assets/images/rail.png" width="80" height="80" />
+      <img src="assets/images/rail.png" width="60" height="60" />
     </a>
     <a href="https://www.runash.in">
-      <img src="assets/images/Node.png" width="80" height="80" />
+      <img src="assets/images/Node.png" width="60" height="60" />
     </a>
   </p>
   </div>
