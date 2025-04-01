@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
 > Ram Murmu JOURNEY 
 
 
-|       |  <img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />          |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />              |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />             |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />           |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />            |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />       |     |
+|       |  <img src="assets/images/MIT.png" width="80" height="80" />          |<img src="assets/images/YC.png" width="80" height="80" />              |<img src="assets/images/YC.png" width="80" height="80" />             |<img src="assets/images/github.svg" width="80" height="80" />           |<img src="assets/images/hugging.png" width="80" height="80" />            |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />       |     |
 | :---  | :---         |     :---:      |          ---: |       ---:  |        ---:  |    ---:  |---:  |
 | ✨    | MIT          | Y Combinator   | Startup School| GitHub      | HuggingFace  |  Kaggle  |✨    |
 |       |              |                |               |             |              |          |      |
