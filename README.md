@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
 > Ram Murmu JOURNEY 
 
 
-|       |              |                |               |             |              |          |      |
+|       |  <img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />          |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />              |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />             |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />           |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />            |<img src="https://www.embla-carousel.com/javascript-logo.svg" width="80" height="80" />       |     |
 | :---  | :---         |     :---:      |          ---: |       ---:  |        ---:  |    ---:  |---:  |
-|       | MIT          | Y Combinator   | Startup School| GitHub      | HuggingFace  |  Kaggle  |      |
+| ✨    | MIT          | Y Combinator   | Startup School| GitHub      | HuggingFace  |  Kaggle  |✨    |
 |       |              |                |               |             |              |          |      |
 
 
@@ -32,17 +32,17 @@ Welcome to my GitHub profile! I'm a passionate full stack AI developer and the F
  
 <a href="https://docs.github.com/en/developers">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" />
-</a> I'm a full stack AI Developer <br>
+</a> I'm a Full Stack Machine Learning Developer <br>
 
-I’m interested in <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" /> AI & ML learning and 🧑‍💻 programming & coding<br>
+📝 Research interested in LLMs,NLP, Computer Vision,Video Language Models<br>
 🎓 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator (YC)](https://www.ycombinator.com/runash)<br>
 
 
 We're committed to build new ways to make real sell automative and experience and
 I’m looking to collaborate on [GitHub](github.com/rammurmu/),
-Discipline & potential is the backbone of journey.
-Reach me anytime at runashInc@outlook.com.
-We 💖, belive/trust and  use [open source stack](https://opensource.guide/) 
+Discipline is the backbone of our journey.
+Reach me anytime at rammurmu@outlook.in.
+We 💖, belive and  use [open source stack](https://opensource.guide/) 
 
 <div align="center">
   <strong>
