@@ -1,194 +1,123 @@
 <div align="center">
-  <strong>
-    <h2 align="center"></h2>
-  </strong>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://">
-  <source media="(prefers-color-scheme: light)" srcset="https://">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="assets/images/RAM MURMU PHOTO .jpg"  width="" height="" "/>
-</picture>
+  <img src="assets/images/RAM_MURMU_PHOTO.jpg" alt="Ram Murmu Photo" width="200" height="200" />
+  <h1>Hi there, I'm Ram Murmu 👋</h1>
+  <p>Welcome to my GitHub profile! I'm a passionate Full Stack AI Developer and the Founder & CEO of <a href="https://www.runash.in">RunAsh</a>. I specialize in Artificial Intelligence, Machine Learning, and building innovative solutions.</p>
 </div>
 
-#
-Hi there, I'm RamMurmu 👋<br>
-Welcome to my GitHub profile! I'm a passionate full stack AI developer and the Founder & CEO of RunAsh.I'm passionate about Artificial Intelligence, Machine Learning,and building innovative solutions.With an interest in various Open Source Stack and a love for continuous learning.
+---
 
+## Table of Contents
+- [About Me](#about-me)
+- [Journey](#journey)
+- [Research Interests](#research-interests)
+- [What We Learn and Make](#what-we-learn-and-make)
+- [Reach Me On](#reach-me-on)
+- [Contributions](#contributions)
+- [License](#license)
+- [Feedback](#feedback)
+- [Contact Me](#contact-me)
 
+---
 
-## Introducing
+## About Me
+🎓 Currently learning at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).  
+🌱 Part of [Y Combinator (YC)](https://www.ycombinator.com/runash).  
+💡 Passionate about creating AI-powered solutions to transform the live streaming marketplace.  
 
+I believe in discipline, collaboration, and the power of open source. Let's innovate together!
 
-> Ram Murmu JOURNEY 
+---
 
+## Journey
 
-|🎓       |  <img src="assets/images/MIT.png" width="40" height="40" />          |<img src="assets/images/YC.png" width="40" height="40" />                       |<img src="assets/images/github.svg" width="40" height="40" />           |<img src="assets/images/hugging.png" width="40" height="40" />            |<img src="assets/images/Kaggle.svg" width="40" height="40" />       |   🎓  |
-| :---  | :---         |     :---:      |       ---:  |       :---:  |    ---:  |---:  |
-| ✨    | MIT          | Y Combinator   | GitHub      | HuggingFace  |  Kaggle  |✨    |
-|       |              |                |             |              |          |      |
+| 🎓        | <img src="assets/images/MIT.png" alt="MIT" width="40" height="40" /> | <img src="assets/images/YC.png" alt="Y Combinator" width="40" height="40" /> | <img src="assets/images/github.svg" alt="GitHub" width="40" height="40" /> | <img src="assets/images/huggingface.png" alt="HuggingFace" width="40" height="40" /> | <img src="assets/images/kaggle.png" alt="Kaggle" width="40" height="40" /> |
+| :------:  | :------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ✨        | MIT                                                                  | Y Combinator                                                               | GitHub                                                                    | HuggingFace                                                                | Kaggle                                                              |
 
+---
 
+## Research Interests
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Video Language Models
 
-  UnderGrad  | PostGrad |  PhD  |
- 
-<a href="https://docs.github.com/en/developers">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="20" height="20" />
-</a> I'm a Full Stack Machine Learning Developer <br>
+---
 
-📝 Research interested in LLMs,NLP, Computer Vision,Video Language Models<br>
-🎓 I’m currently learning [Massachusetts Institute of Technology(MIT)](https://www.mit.edu/)<br>🌱 We are part of [Y Combinator (YC)](https://www.ycombinator.com/runash)<br>
+## What We Learn and Make
 
-
-We're committed to build new ways to make real sell automative and experience and
-I’m looking to collaborate on [GitHub](github.com/rammurmu/),
-Discipline is the backbone of our journey.
-Reach me anytime at rammurmu@outlook.in.
-We 💖, belive and  use [open source stack](https://opensource.guide/) 
-
-<div align="center">
-  <strong>
-    <h2 align="center"></h2>
-  </strong>
-  
-  <p align="center">
-    <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/javascript-logo.svg" width="60" height="60" />
-    </a>
-    <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/typescript-logo.svg" width="60" height="60" />
-    </a>
-    <a href="https://www.runash.in">
-      <img src="https://www.embla-carousel.com/react-logo.svg" width="60" height="60" />
-    </a>
-    <a href="https://www.runash.in">
-      <img src="assets/images/python.png" width="60" height="60" />
-    </a>
-    <a href="https://www.runash.in">
-      <img src="assets/images/rail.png" width="60" height="60" />
-    </a>
-    <a href="https://www.runash.in">
-      <img src="assets/images/Node.png" width="60" height="60" />
-    </a>
-  </p>
-  </div>
-  
-##
-
-  ## Reach me on
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg"
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg"
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-  <a href="https://github.com/rammurmu">
-   <img src="https://github.com/rammurmu/rammurmu/blob/a73a9c41741201c8b94b1b59b66593a62d92be43/github.svg" width="30"     height="30" />
-   </a> 
-   <a href="https://huggingface.com/rammurmuu">
-       <img src="assets/images/hugging.png" width="30"       height="30" />
-     </a>
-  <a href="https://x.com/rammurmuu">
-       <img src="assets/images/x.svg" width="30"       height="30" />
-     </a>
-   <a href="https://x.com/rammurmuu">
-       <img src="assets/images/linkedin.svg" width="30"       height="30" />
-     </a>
-   
- ##  
-
- ## What does we learn and make ##
- We learn and make 
- 
- 
-<details><Summary>🧑‍💻We Learn</Summary>
-  <p>
-    
-- Artificial Intelligent
+### 🧑‍💻 We Learn
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
 - Video Classification
 - Programming
-- Python
-- JavaScript
-- TypeScript
-- React
-- Node.js
+- Python, JavaScript, TypeScript
+- React, Node.js
 - Data Visualization
 - AI Ethics
 - Feature Engineering
-- Promt Engineering` 
-  </p>
+- Prompt Engineering
 
+### 🛠️ We Make
+- **Open Source Projects**
+- **RunAsh**: AI-powered live-streaming platform
+- **RunAsh Live**: AI-driven live streaming
+- **RunAsh Chat**: Intelligent chat systems
+- **RunAsh AI**: Advanced AI solutions
+- **Video Classification Models**
+- **Progressive Web Applications**
 
-<details><Summary>🧑‍💻We Make</Summary>
-  <p>
+---
 
-    
-- Open Source Project
-- RunAsh
-- RunAsh live
-- RunAshChat
-- RunAsh AI
-- Video Classification Model
-- Progressive Web Application
-  </p>
+## Reach Me On
 
+<div align="center">
+  <a href="https://github.com/rammurmu">
+    <img src="assets/images/github.svg" alt="GitHub" width="30" height="30" />
+  </a>
+  <a href="https://huggingface.com/rammurmu">
+    <img src="assets/images/huggingface.png" alt="HuggingFace" width="30" height="30" />
+  </a>
+  <a href="https://x.com/rammurmuu">
+    <img src="assets/images/x.svg" alt="Twitter" width="30" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/rammurmu">
+    <img src="assets/images/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+</div>
 
+---
 
-<details><Summary>Learn more</Summary>
-<p>Yes, today and tomorrow for we are building AI-powered live streaming marketplace and platform.in fact, we've been doing this since <b>November 12 th,2007.</b> That's when we made our first offline small retail store </p>
+## Contributions
+We contribute to the open source ecosystem, maintaining our own projects and supporting the community.  
+Check out our live streaming open source project: [RunAsh Live](https://runash.in/live/ai).  
+Your feedback and contributions are always welcome!
 
-<details><Summary>Learn more</Summary>
+---
 
-An interconnected live seller community 
-The opene seller community is the ❤️ heart of runash AI-Powered live streaming platform and fundamental to how we build software today
- 
->Join us in shaping the future of technology 
-
-## Contribution 
-</details>
-Contributing to the ecosystem<br>
-We contribute to the platform we rely on to build and run live streaming while also maintaining our own open source project <br>
-
-https://runash.in/live/ai
-
-Contribution guid for more information on getting started<br>
-<b>Note:</b> You can check out the runash live streaming open source GitHub repository - your feedback and contributions are welcome!
-
-## Licence 
-The RamMurmu/README.md is licensed under the [MIT License.](LICENSE)
-
+## License
+This project is licensed under the [MIT License](LICENSE).  
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+---
 
 ## Feedback
-**[Send feedback](rammurmu@outlook.in)**
+We value your feedback!  
+[Send feedback](mailto:rammurmu@outlook.in)
 
-## Authors
-
- [@RamMurmu](https://www.github.com/rammurmu)
- 
+---
 
 ## Contact Me
+For inquiries or collaborations, reach out to me via:  
+- **Email**: [rammurmu@outlook.in](mailto:rammurmu@outlook.in)  
+- **GitHub**: [rammurmu](https://github.com/rammurmu)  
+- **HuggingFace**: [rammurmu](https://huggingface.com/rammurmu)  
+- **Twitter**: [rammurmuu](https://x.com/rammurmuu)  
+- **LinkedIn**: [rammurmu](https://linkedin.com/in/rammurmu)  
 
-For any inquiries or collaborations, please reach out to me at:
-
-- **Email**: rammurmu@outlook.in
-- **GitHub**: [rammurmu](https://github.com/rammurmu)
-- **HuggingFace**: [rammurmu](https://huggingface.com/rammurmu)
-- **Twitter**: [rammurmuu](https://x.com/rammurmuu)
-- **LinkedIn**: [rammurmu](https://linkedin.com/in/rammurmu)
-  
 Let's connect and build something amazing together!
 
-<!---
-
-Ram Murmu/rammurmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can click the Preview link to take a look at your changes.
-
---->
-
-
-
+---
