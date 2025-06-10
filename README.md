@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/RAM_MURMU_PHOTO.jpg" alt="Ram Murmu Photo" width="200" height="200" />
+  <img src="assets/images/RAM MURMU PHOTO .jpg" alt="Ram Murmu Photo" width="200" height="200" />
   <h1>Hi there, I'm Ram Murmu 👋</h1>
   <p>Welcome to my GitHub profile! I'm a passionate Full Stack AI Developer and the Founder & CEO of <a href="https://www.runash.in">RunAsh</a>. I specialize in Artificial Intelligence, Machine Learning, and building innovative solutions.</p>
 </div>
@@ -30,7 +30,7 @@ I believe in discipline, collaboration, and the power of open source. Let's inno
 
 ## Journey
 
-| 🎓        | <img src="assets/images/MIT.png" alt="MIT" width="40" height="40" /> | <img src="assets/images/YC.png" alt="Y Combinator" width="40" height="40" /> | <img src="assets/images/github.svg" alt="GitHub" width="40" height="40" /> | <img src="assets/images/huggingface.png" alt="HuggingFace" width="40" height="40" /> | <img src="assets/images/kaggle.png" alt="Kaggle" width="40" height="40" /> |
+| 🎓        | <img src="assets/images/MIT.png" alt="MIT" width="40" height="40" /> | <img src="assets/images/YC.png" alt="Y Combinator" width="40" height="40" /> | <img src="assets/images/github.svg" alt="GitHub" width="40" height="40" /> | <img src="assets/images/hugging.png" alt="HuggingFace" width="40" height="40" /> | <img src="assets/images/Kaggle.svg" alt="Kaggle" width="40" height="40" /> |
 | :------:  | :------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | ✨        | MIT                                                                  | Y Combinator                                                               | GitHub                                                                    | HuggingFace                                                                | Kaggle                                                              |
 
@@ -79,7 +79,7 @@ I believe in discipline, collaboration, and the power of open source. Let's inno
     <img src="assets/images/github.svg" alt="GitHub" width="30" height="30" />
   </a>
   <a href="https://huggingface.com/rammurmu">
-    <img src="assets/images/huggingface.png" alt="HuggingFace" width="30" height="30" />
+    <img src="assets/images/hugging.png" alt="HuggingFace" width="30" height="30" />
   </a>
   <a href="https://x.com/rammurmuu">
     <img src="assets/images/x.svg" alt="Twitter" width="30" height="30" />
