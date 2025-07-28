@@ -18,7 +18,7 @@
     
 
 <div align="center">
-  <img src="assets/images/RAM MURMU PHOTO .jpg" alt="Ram Murmu Photo"  rounded="full" width="220" height="220" />
+  <img src="assets/images/rammurmu.jpg" alt="Ram Murmu Photo"  rounded="full" width="220" height="220" />
   <h1>Hi there, I'm Ram Murmu 👋</h1>
   <p>Welcome to my GitHub profile! I'm a passionate <b>Full Stack AI Developer</b> and the <b>Founder & CEO of RunAsh</b>. I specialize in harnessing the power of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and innovative solution building.</p>
  <div align="centre">
