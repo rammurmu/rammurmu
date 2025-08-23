@@ -8,7 +8,7 @@
 
   </div>
   
- **@Ram Murmu**
+ **@rammurmu**
  
 
   
@@ -20,11 +20,11 @@
 <div align="center">
   <img src="assets/images/rammurmu.jpg" alt="Ram Murmu Photo"  rounded="full" width="220" height="220" />
   <h1>Hi there, I'm Ram Murmu 👋</h1>
-  <p>Welcome to my GitHub profile! I'm a passionate <b>Full Stack AI Developer</b> and the <b>Founder & CEO of RunAsh</b>. I specialize in harnessing the power of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and innovative solution building.</p>
+  <p>Welcome to my GitHub profile! I'm a passionate <b>Full Stack AI Developer</b> and the <b>Founder & CEO of RunAsh AI</b>. I specialize in harnessing the power of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and innovative solution building.</p>
  <div align="centre">
  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" alt="" width="40" height="40" />
  </div>
-  <a href="https://www.runash.in">RunAsh</a> | <a href="https://www.mit.edu/">MIT</a> | <a href="https://www.ycombinator.com/runash">Y Combinator</a>
+  <a href="https://www.runash.in">RunAsh AI</a> | <a href="https://www.mit.edu/">MIT</a> | <a href="https://www.ycombinator.com/runash">Y Combinator</a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=rammurmu&color=blue&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
@@ -37,13 +37,13 @@
 <a href="https://huggingface.co/RamMurmu">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" width="30" height="30" />
   
-  **@RamMurmu**
+  **@rammurmu**
 </a>
 <br>
-**AI Innovator | Full Stack AI Developer | Founder & CEO of RunAsh**
+**AI Innovator | Full Stack AI Developer | Founder & CEO of RunAsh AI**
 <br>
-[![RunAsh Language Model (RALM)](https://huggingface.co/RamMurmu/RunAsh-Language-Model/preview)](https://huggingface.co/RamMurmu/RunAsh-Language-Model)
-[![Live Streaming Chat Dataset (LSCD)](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset/preview)](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset)
+**[![RunAsh Language Model (RALM)](https://huggingface.co/RamMurmu/RunAsh-Language-Model/preview)](https://huggingface.co/RamMurmu/RunAsh-Language-Model)**
+**[![Live Streaming Chat Dataset (LSCD)](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset/preview)](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset)**
 <br>
 **Recent Activity:**
 * **Updated** RunAsh Language Model (RALM) to version 1.0
@@ -86,7 +86,7 @@
 	* **Other Models:**
 		- **Computer Vision for Live Streaming**: "Object detection and tracking for enhanced live streaming experiences."
 		- **Conversational AI for Customer Support**: "Intent recognition and response generation for automated support chatbots."
-		- **Emotion Detection for Mental Health**: "AI-powered emotion detection for mental health support systems."
+		- **Emotion Detection for Live Streaming**: "AI-powered emotion detection for live streaming support systems."
 3. **Datasets:**
 	* **Featured Dataset:**
 		- **Live Streaming Chat Dataset (LSCD)**: "A unique dataset of live streaming chats, annotated for conversational AI training."
@@ -114,8 +114,8 @@
 		- **Updated** Live Streaming Chat Dataset (LSCD) to version 1.0
 		- **Published** new dataset: Mental Health Support Conversations
 7. **Community:**
-	* **Followers:** 0+
-	* **Following:** 50+
+	* **Followers:** 1+
+	* **Following:** 100+
 	* **Discussions:**
 		- **Started** discussion on "Ethics in AI for Social Good"
 		- **Participated** in discussion on "Conversational AI for Customer Support"
