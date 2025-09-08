@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
   
   <img src="https://img.shields.io/badge/-Hugging%20Face-42455A?style=flat-square&logo=Hugging%20Face&logoColor=white" alt="Hugging Face Badge">
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<!-- Add more badges for your favorite tools/languages -->
 </div>
 
  `Hugging Face` 
