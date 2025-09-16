@@ -18,15 +18,15 @@
     <img src="https://img.shields.io/github/followers/rammurmu?label=Github%20Followers&style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/HuggingFace-%40RamMurmu-yellow?logo=huggingface&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Live%20Streaming%20AI-RunAsh-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20Streaming%20AI-RunAsh%20AI-brightgreen?style=for-the-badge" />
   </p>
 
   <p>
     <a href="https://rammurmu.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rammurmu.com-2E9AFE?logo=vercel&style=flat-square"></a>
-    <a href="https://huggingface.co/RamMurmu"><img src="assets/images/hugging.png" alt="Hugging Face" width="32" height="32"></a>
-    <a href="https://www.kaggle.com/rammurmu"><img src="assets/images/Kaggle.svg" alt="Kaggle" width="32" height="32"></a>
-    <a href="https://x.com/rammurmuu"><img src="assets/images/x.svg" alt="Twitter/X" width="32" height="32"></a>
-    <a href="https://linkedin.com/in/rammurmu"><img src="assets/images/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
+    <a href="https://huggingface.co/RamMurmu"><img src="assets/images/hugging.png" alt="Hugging Face" width="18" height="22"></a>
+    <a href="https://www.kaggle.com/rammurmu"><img src="assets/images/Kaggle.svg" alt="Kaggle" width="18" height="18"></a>
+    <a href="https://x.com/rammurmuu"><img src="assets/images/x.svg" alt="Twitter/X" width="18" height="18"></a>
+    <a href="https://linkedin.com/in/rammurmu"><img src="assets/images/linkedin.svg" alt="LinkedIn" width="18" height="18"></a>
     <a href="mailto:rammurmu@outlook.in"><img src="https://img.shields.io/badge/Email-rammurmu%40outlook.in-red?logo=gmail&style=flat-square"></a>
   </p>
   
@@ -55,7 +55,7 @@ Interests: LLMs, AI UI, Live Streaming, Human-Centric AI, Open Source
 ## 🧑‍💻 Modern Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,tailwind,figma,docker,aws,vercel,opencv,tensorflow,pytorch,sklearn" height="45"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,tailwind,figma,docker,aws,vercel,opencv,tensorflow,pytorch,sklearn" height="18"/>
 </p>
 
 - **Languages:** Python, TypeScript, JavaScript
