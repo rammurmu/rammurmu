@@ -6,11 +6,11 @@
   <img src="https://github.com/rammurmu/rammurmu/assets/images/banner-modern-ai.svg" alt="Modern AI Banner" width="100%" style="border-radius: 16px;" />
 
   <br/>
-  <img src="assets/images/rammurmu.jpg" alt="Ram Murmu Photo" width="180" height="180" style="border-radius: 50%; box-shadow: 0 4px 12px #cce7f7; margin-bottom: 8px;" />
+  <img src="/" alt="Ram Murmu Photo" width="180" height="180" style="border-radius: 50%; box-shadow: 0 4px 12px #cce7f7; margin-bottom: 8px;" />
   <h1>Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> 👋</h1>
 
   <p>
-    <b>Full Stack AI Engineer</b> • <b>Product Designer</b> <br/>
+    <b>Full Stack AI Developer</b> • <b>Product Designer</b> <br/>
     <b>Founder & CEO</b> @ <a href="https://www.runash.in" target="_blank"><b>RunAsh AI</b></a>
   </p>
 
