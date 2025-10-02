@@ -4,9 +4,10 @@
 
   <!-- Modern Animated Banner -->
   <img src="https://github.com/rammurmu/rammurmu/assets/images/banner-modern-ai.svg" alt="Modern AI Banner" width="100%" style="border-radius: 16px;" />
-
+<!---
   <br/>
   <img src="/" alt="Ram Murmu Photo" width="180" height="180" style="border-radius: 50%; box-shadow: 0 4px 12px #cce7f7; margin-bottom: 8px;" />
+  --->
   <h1>Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> 👋</h1>
 
   <p>
@@ -124,7 +125,7 @@ Interests: LLMs, AI UI, Live Streaming, Human-Centric AI, Open Source
 - 🤝 **Human-Centered:** Empathetic conversational design
 - ⚡ **Realtime:** Live AI interactions, streaming data
 - 🔓 **Open Source:** Community-driven design, contributions welcome!
-
+<!---
 <div align="center">
   <img src="https://media.giphy.com/media/L3nWgwFp3hXrDX9Rmy/giphy.gif" alt="Modern AI UI Animation" width="160" />
 </div>
@@ -137,7 +138,7 @@ Interests: LLMs, AI UI, Live Streaming, Human-Centric AI, Open Source
   <img src="https://github-readme-stats.vercel.app/api?username=rammurmu&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rammurmu&theme=tokyonight" height="160"/>
 </p>
-
+--->
 ---
 
 ## 📬 Let's Connect
