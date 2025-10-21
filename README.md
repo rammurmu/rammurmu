@@ -1,24 +1,6 @@
 <!-- Header Banner -->
 
-<div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" style="border-radius: 8px; margin-bottom: 12px;">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#2E9AFE" />
-        <stop offset="100%" stop-color="#7B68EE" />
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="120" rx="12" fill="url(#g1)" />
-    <g fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="700">
-      <text x="36" y="56" font-size="28">Ram Murmu</text>
-      <text x="36" y="88" font-size="14" opacity="0.95">Full Stack AI Developer • Product Designer • RunAsh AI</text>
-    </g>
-    <a xlink:href="https://runash.in" target="_blank">
-      <rect x="1040" y="26" width="120" height="68" rx="8" fill="rgba(255,255,255,0.12)" />
-      <text x="1060" y="66" font-size="14" fill="white">Visit RunAsh</text>
-    </a>
-  </svg>
-</div>
+
 
 <!-- Profile README | @rammurmu | AI x Modern Tech x UI/UX -->
 
