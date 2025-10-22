@@ -71,7 +71,7 @@ Interests:
   - Human-Centric AI
   - Open Source
 Contact: rammurmu@outlook.in
-Website: https://rammurmu.com
+Website: https://rammurmu.runash.in
 ```
 
 I build at the intersection of AI and modern user experience — shipping production-ready models and delightful interfaces for live, interactive systems.
