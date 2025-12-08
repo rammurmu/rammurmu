@@ -1,3 +1,7 @@
+
+
+
+
 <!-- Header Banner -->
 
 
@@ -10,7 +14,7 @@
   <img src="https://github.com/rammurmu/rammurmu/assets/images/banner-modern-ai.svg" alt="Modern AI Banner" width="100%" style="border-radius: 16px; max-height: 280px; object-fit:cover;" />
 
   <br/>
-  <img src="assets/images/rammurmu.jpg" alt="Ram Murmu" width="120" height="120" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(46,154,254,0.18); margin-top: -60px; border: 4px solid white;" />
+  <img src="" />
 
   <h1 style="margin-top: 8px;">Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> 👋</h1>
 
@@ -19,24 +23,42 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/rammurmu?label=Github%20Followers&style=for-the-badge&logo=github" />
-    <img src="https://img.shields.io/badge/HuggingFace-%40RamMurmu-yellow?logo=huggingface&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Live%20Streaming%20AI-RunAsh%20AI-brightgreen?style=for-the-badge" />
+    <img src="https://" />
+    <img src="https://" />
+    <img src="https://" />
+    <img src="https://" />
   </p>
 
   <p>
-    <a href="https://rammurmu.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-rammurmu.com-2E9AFE?logo=vercel&style=flat-square"></a>
-    <a href="https://huggingface.co/RamMurmu"><img src="assets/images/hugging.png" alt="Hugging Face" width="18" height="22"></a>
-    <a href="https://www.kaggle.com/rammurmu"><img src="assets/images/Kaggle.svg" alt="Kaggle" width="18" height="18"></a>
-    <a href="https://x.com/rammurmuu"><img src="assets/images/x.svg" alt="Twitter/X" width="18" height="18"></a>
-    <a href="https://linkedin.com/in/rammurmu"><img src="assets/images/linkedin.svg" alt="LinkedIn" width="18" height="18"></a>
-    <a href="mailto:rammurmu@outlook.in"><img src="https://img.shields.io/badge/Email-rammurmu%40outlook.in-red?logo=gmail&style=flat-square"></a>
-  </p>
+
+
   
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rammurmu&color=blue&style=flat-square" alt="Profile Views">
+    <img src="https://">
   </div>
+</div>
+
+---
+
+# The README Project.
+
+<div align="center">
+
+  <em>The Startup & PhD Journey </em><br />
+  <sub><a href="about.md">The journey from the classroom to boardroom </a></sub>
+
+  [Ram Murmu ](https://github.com/rammurmu)
+
+👉 **[Watch Project](#-watch-tools-in-action)**
+
+### Open Source AI & ML Community 
+
+**Learn 🤖 more:**  
+[GitHub](https://www.github.com/rammurmu) · [Hugging Face](https://huggingface.com/rammurmu) · [Kaggle](https://kaggle.com/rammurmu) · [Colab](https://colab.research.google.com/rammurmu) · [Jupyter](https://jupyter.org/rammurmu) · _and more_
+
+**Team :**  
+Ram Murmu· Vaibhav Murmu· P K Murmu · Nirali Murmu· C K Murmu ·
+
 </div>
 
 ---
