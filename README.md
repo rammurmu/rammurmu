@@ -1,44 +1,17 @@
-
-
-
-
 <!-- Header Banner -->
-
-
-
 <!-- Profile README | @rammurmu | AI x Modern Tech x UI/UX -->
 
 <div align="center">
 
   <!-- Hero: banner + avatar + headline -->
-  🫡 
-  
-
-  <h1 style="margin-top: 8px;">Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> 👋</h1>
+  👋
+  <h1 style="margin-top: 8px;">Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> </h1>
 
   <p>
-    <b>Full Stack AI Developer</b> • <b>Product Designer</b> • <b>Founder</b> @ <a href="https://www.runash.in" target="_blank"><b>RunAsh AI</b></a>
+    <b>Full Stack AI Developer</b> • <b>Product Designer</b> • <b>Founder</b> @ <a href="https://www.runash.in"     target="_blank"><b>RunAsh AI</b></a>
   </p>
-
-  <p>
-    <img src="https://" />
-    <img src="https://" />
-    <img src="https://" />
-    <img src="https://" />
-  </p>
-
-  <p>
-
-
   
-  <div align="center">
-    <img src="https://">
   </div>
-</div>
-
----
-
-## ✨ The README.md
 
 <div align="center">
 
@@ -54,7 +27,6 @@ Ram Murmu. Vaibhav Murmu. P K Murmu. Nirali Murmu. C K Murmu.
 
 </div>
 
----
 
 <!-- Table of Contents -->
 
