@@ -11,10 +11,8 @@
 <div align="center">
 
   <!-- Hero: banner + avatar + headline -->
-  <img src="https://github.com/rammurmu/rammurmu/assets/images/banner-modern-ai.svg" alt="Modern AI Banner" width="100%" style="border-radius: 16px; max-height: 280px; object-fit:cover;" />
-
-  <br/>
-  <img src="" />
+  🫡 
+  
 
   <h1 style="margin-top: 8px;">Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> 👋</h1>
 
@@ -40,24 +38,19 @@
 
 ---
 
-# The README Project.
+## ✨ The README.md
 
 <div align="center">
 
   <em>The Startup & PhD Journey </em><br />
   <sub><a href="about.md">The journey from the classroom to boardroom </a></sub>
 
-  [Ram Murmu ](https://github.com/rammurmu)
 
-👉 **[Watch Project](#-watch-tools-in-action)**
+### Open-Source AI & ML Community 
 
-### Open Source AI & ML Community 
+[GitHub](https://www.github.com/rammurmu) · [Hugging Face](https://huggingface.com/rammurmu) · [Kaggle](https://kaggle.com/rammurmu) · [Colab](https://colab.research.google.com/rammurmu) · [Jupyter](https://jupyter.org/rammurmu) · [LinkedIn](https//LinkedIn.com/in/rammurmu)
 
-**Learn 🤖 more:**  
-[GitHub](https://www.github.com/rammurmu) · [Hugging Face](https://huggingface.com/rammurmu) · [Kaggle](https://kaggle.com/rammurmu) · [Colab](https://colab.research.google.com/rammurmu) · [Jupyter](https://jupyter.org/rammurmu) · _and more_
-
-**Team :**  
-Ram Murmu· Vaibhav Murmu· P K Murmu · Nirali Murmu· C K Murmu ·
+Ram Murmu. Vaibhav Murmu. P K Murmu. Nirali Murmu. C K Murmu.
 
 </div>
 
