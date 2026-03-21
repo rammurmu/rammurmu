@@ -1,156 +1,213 @@
-<!-- Header Banner -->
-<!-- Profile README | @rammurmu | AI x Modern Tech x UI/UX -->
+<!-- 🌈 Premium Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ram%20Murmu&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
 <div align="center">
 
-  <!-- Hero: banner + avatar + headline -->
-  👋
-  <h1 style="margin-top: 8px;">Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span> </h1>
+👋  
+<h1>Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span></h1>
 
-  <p>
-    <b>Full Stack AI Developer</b> • <b>Product Designer</b> • <b>Founder</b> @ <a href="https://www.runash.in"     target="_blank"><b>RunAsh AI</b></a>
-  </p>
-  
-  </div>
+<p>
+  <b>AI Founder</b> • <b>Full Stack AI Developer</b> • <b>Product Designer</b><br/>
+  Founder & CEO @ <a href="https://www.runash.in"><b>RunAsh AI</b></a>
+</p>
 
-<div align="center">
-
-  <em>The Startup & PhD Journey </em><br />
-  <sub><a href="about.md">The journey from the classroom to boardroom </a></sub>
-
-
-### Open-Source AI & ML Community 
-
-[GitHub](https://www.github.com/rammurmu) · [Hugging Face](https://huggingface.com/rammurmu) · [Kaggle](https://kaggle.com/rammurmu) · [Colab](https://colab.research.google.com/rammurmu) · [Jupyter](https://jupyter.org/rammurmu) · [LinkedIn](https//LinkedIn.com/in/rammurmu)
-
-Ram Murmu. Vaibhav Murmu. P K Murmu. Nirali Murmu. C K Murmu.
+<p><em>Building the future of AI-generated reality</em></p>
 
 </div>
 
+---
 
-<!-- Table of Contents -->
+## 🚀 The Vision  
 
-## 📚 Table of Contents
+> “Don’t just generate content. Generate reality.”  
 
-- [About Me](#-about-me)
-- [Highlights](#-highlights)
-- [Modern Tech Stack](#-modern-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [AI Models & Datasets](#-ai-models--datasets)
-- [Experience & Features](#-experience--features)
-- [How to Collaborate](#-how-to-collaborate)
-- [Let's Connect](#-lets-connect)
-- [License](#-license)
+I’m building **RunAsh AI** — a system that transforms simple text prompts into  
+🎬 **real-world demonstration videos using multi-agent AI pipelines**  
 
 ---
 
-## ⚡ About Me
+## ⚡ About Me  
 
 ```yaml
 Name: Ram Murmu
-Title: AI Innovator | Full Stack AI Developer | Product Designer
-Company: RunAsh AI
-Location: 🌎 Global (MIT, USA)
-Interests:
-  - LLMs
-  - AI UI
-  - Live Streaming
-  - Human-Centric AI
-  - Open Source
-Contact: rammurmu@outlook.in
-Website: https://rammurmu.runash.in
-```
+Role: Founder & CEO, RunAsh AI
+Focus: AI Systems, Multi-Agent Architectures, Creative Automation
+Location: India 🌏
+Mission: Make creation as simple as thinking
+````
 
-I build at the intersection of AI and modern user experience — shipping production-ready models and delightful interfaces for live, interactive systems.
+I build at the intersection of:
+
+* 🧠 AI Systems
+* 🎬 Creative Automation
+* 🧩 Product Design
+* 🚀 Startup Innovation
 
 ---
 
 ## 🔥 Highlights
 
-- Founder & CEO at RunAsh AI — live streaming + AI for interactive experiences.
-- Author of RunAsh Language Model (RALM) and multiple Hugging Face model cards.
-- Experience building real-time CV and NLP systems (PyTorch, Transformers, OpenCV).
-- Open-source maintainer and Kaggle competitor.
+* 🚀 Founder of **RunAsh AI (Text → Demo Video Platform)**
+* 🧠 Architect of multi-agent AI pipelines
+* 🤗 Hugging Face model & dataset contributor
+* 🏆 Open-source AI builder & Kaggle practitioner
+* ⚡ Building for YC & global scale
 
 ---
 
-## 🧑‍💻 Modern Tech Stack
+## 🧠 Core System (RunAsh AI)
+
+```text
+Prompt
+  ↓
+Intent Intelligence
+  ↓
+Scene Planning Engine
+  ↓
+Execution Simulation
+  ↓
+🎥 Realistic Demo Video
+```
+
+---
+
+## 🛠️ Modern Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,tailwind,figma,docker,aws,vercel,opencv,tensorflow,pytorch,sklearn" height="22"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,tailwind,docker,aws,opencv,tensorflow,pytorch,sklearn,figma" />
 </p>
 
-- Languages: Python, TypeScript, JavaScript
-- Frameworks: React, Next.js, FastAPI, Node.js
-- AI/ML: PyTorch, TensorFlow, Transformers, Scikit-learn, OpenCV
-- Cloud / Infra: AWS, Vercel, Docker
-- Design: Figma, TailwindCSS, Framer Motion
+---
+
+## 📊 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rammurmu&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rammurmu&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rammurmu&layout=compact&theme=radical"/>
+</p>
 
 ---
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| RunAsh AI | AI-powered live streaming platform (real-time chat + CV integrations) | Next.js, React, PyTorch, FastAPI |
-| RunAsh Chat | Conversational AI for live streaming (moderation, summarization, emotes) | Transformers, WebSocket, React |
-| Sentiment Behaviour Support Bot | Mental health & sentiment-aware support chatbot | Python, FastAPI, Hugging Face |
-| Live Streaming Chat Dataset (LSCD) | 10,000+ annotated samples curated for stream chat behaviour | Dataset (Hugging Face) |
+| Project             | Description                          | Tech                     |
+| ------------------- | ------------------------------------ | ------------------------ |
+| 🚀 RunAsh AI        | Text → Demonstration Video Engine    | AI Agents, Python, React |
+| 💬 RunAsh Chat      | Conversational AI for live streaming | Transformers, WebSockets |
+| 🧠 Sentiment AI Bot | Emotion-aware support chatbot        | FastAPI, Hugging Face    |
+| 📊 LSCD Dataset     | Live streaming chat dataset          | NLP, Annotation          |
 
 ---
 
 ## 🧠 AI Models & Datasets
 
-- RunAsh Language Model (RALM): fine-tuned LLM for live-stream chat agents — https://huggingface.co/RamMurmu/RunAsh-Language-Model
-- Live Streaming Chat Dataset (LSCD): dataset used to fine-tune chat behaviour models — https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset
+* 🤖 RunAsh Language Model (RALM)
+  [https://huggingface.co/RamMurmu/RunAsh-Language-Model](https://huggingface.co/RamMurmu/RunAsh-Language-Model)
+
+* 📊 Live Streaming Chat Dataset (LSCD)
+  [https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset)
 
 ---
 
-## ⚙️ Experience & Features
+## 📈 Traction (Updating)
 
-- Real-time systems: WebSocket-based low-latency chat, inference pipelines, and online model serving.
-- CV for streams: face & object detection for overlays and interaction triggers (OpenCV, YOLO-style detectors).
-- UX-first AI: human-centered prompts, fallback strategies, and safe-moderation layers.
-- Production ML: training pipelines, CI/CD, Dockerized inference, metrics & monitoring.
-
----
-
-## 🤝 How to Collaborate
-
-Looking to collaborate? Here are a few ways:
-
-- Open-source: raise an issue or PR on any repo — I'm happy to review.
-- Research & partnerships: email me at rammurmu@outlook.in or reach via LinkedIn.
-- Product/Startup: interested in integrating AI into streaming or interactive experiences? Let's discuss: https://runash.in
+* 🚀 MVP in progress
+* 👥 Early users onboarding
+* 🎬 Demo videos being generated
+* 🌍 Applying to Y Combinator
 
 ---
 
-## 📬 Let's Connect
+## ⚙️ Experience
 
-- Portfolio: https://rammurmu.com
-- Hugging Face: https://huggingface.co/rammurmu
-- LinkedIn: https://linkedin.com/in/rammurmu
-- X (Twitter): https://x.com/rammurmuu
-- Kaggle: https://www.kaggle.com/rammurmu
-- Email: rammurmu@outlook.in
+* Real-time AI systems (low latency pipelines)
+* Computer vision for live interaction
+* Production ML (training → deployment → monitoring)
+* UX-first AI design (human-centered systems)
+
+---
+
+## 🤝 Collaborate
+
+Open to:
+
+* 🤝 Startup collaborations
+* 🧠 AI partnerships
+* 👥 Early users & testers
+* 💼 Investors & mentors
+
+---
+
+## 📬 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/rammurmu">
+    <img src="https://img.shields.io/badge/LinkedIn-Ram%20Murmu-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rammurmu@outlook.in">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://huggingface.co/rammurmu">
+    <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rammurmu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rammurmu&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rammurmu&theme=react-dark&area=true"/>
+</p>
 
 ---
 
 ## 📝 License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+MIT License
 
 ---
 
 <details>
   <summary>More About Me</summary>
 
-  - Currently at MIT, accelerated by Y Combinator, building for the future of live interactive AI.
-  - Kaggle competitor, Hugging Face model author, open source enthusiast.
-  - If you'd like a custom README version (different banner, colors, or focus areas), tell me what tone and sections to prioritize and I'll create a tailored variant.
+* Founder building AI for real-world simulation
+* Passionate about turning ideas into experiences
+* Focused on global impact through AI
 
-  <br>
-  <img src="assets/images/rammurmu.jpg" width="96" style="border-radius: 50%" />
 </details>
 
-<!--- README updated by Copilot -->
+---
+
+<!-- 🌈 Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+```
+
+---
+
+
