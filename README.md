@@ -5,42 +5,91 @@
 
 <div align="center">
 
-👋  
+👋
+
 <h1>Hi, I'm <span style="color:#2E9AFE;">Ram Murmu</span></h1>
 
 <p>
-  <b>AI Founder</b> • <b>Full Stack AI Developer</b> • <b>Product Designer</b><br/>
-  Founder & CEO @ <a href="https://www.runash.in"><b>RunAsh AI</b></a>
+  <b>Founder & AI Lead</b> — building a connected AI brand across research, product, and infrastructure
 </p>
 
-<p><em>Building the future of AI-generated reality</em></p>
+<!-- Badge nav across the three entities -->
+<p>
+  <a href="https://huggingface.co/RunashDigital">
+    <img src="https://img.shields.io/badge/Runash%20Digital-Parent%20Company-0f2027?style=for-the-badge"/>
+  </a>
+  <a href="https://huggingface.co/RunAshAI">
+    <img src="https://img.shields.io/badge/RunAsh%20AI-AI%20Division-2E9AFE?style=for-the-badge"/>
+  </a>
+  <a href="https://huggingface.co/RunAshFrontierLabs">
+    <img src="https://img.shields.io/badge/Frontier%20Labs-Applied%20Research-8A2BE2?style=for-the-badge"/>
+  </a>
+</p>
+
+<p><em>Pre-launch — models, datasets, and Spaces currently in development.</em></p>
 
 </div>
 
 ---
 
-## 🚀 The Vision  
+## 🏛️ The Structure
 
-> “Don’t just generate content. Generate reality.”  
+I run three interconnected entities, each with a distinct role:
 
-I’m building **RunAsh AI** — a system that transforms simple text prompts into  
-🎬 **real-world demonstration videos using multi-agent AI pipelines**  
+<details>
+<summary><b>🏢 Runash Digital Innovation Technologies Private Limited — Parent Company</b></summary>
+<br/>
+
+The parent company housing the overall product, engineering, and business strategy for the RunAsh brand family.
+
+- **Role:** Corporate & product umbrella
+- **Status:** Pre-launch — Hugging Face org and public presence being established
+
+</details>
+
+<details>
+<summary><b>🤖 RunAsh AI — AI Division</b></summary>
+<br/>
+
+The AI brand under Runash Digital, spanning:
+
+- 🧠 NLP / LLMs
+- 👁️ Computer Vision
+- 🎬 Multimodal & Generative AI (text → real-world demonstration video pipelines)
+
+- **Status:** Pre-launch — no live model/dataset publications yet
+
+</details>
+
+<details>
+<summary><b>🔬 RunAsh AI Frontier Applied Research Labs — Applied Research Arm</b></summary>
+<br/>
+
+The applied research arm exploring frontier and domain-specific problems:
+
+- 🤖 Agentic AI
+- 🛍️ Live Commerce & Payments AI
+- 🧪 Domain-specific applied research
+
+- **Status:** Pre-launch — first research publications and demo Spaces in progress
+
+</details>
 
 ---
 
-## ⚡ About Me  
+## ⚡ About Me
 
 ```yaml
 Name: Ram Murmu
-Role: Founder & CEO, RunAsh AI
-Focus: AI Systems, Multi-Agent Architectures, Creative Automation
+Role: Founder & AI Lead — Runash Digital / RunAsh AI / Frontier Labs
+Focus: Multi-Agent AI Systems, Agentic AI, Live Commerce & Payments AI
 Location: India 🌏
 Mission: Make creation as simple as thinking
-````
+```
 
 I build at the intersection of:
 
-* 🧠 AI Systems
+* 🧠 AI Systems & Multi-Agent Architectures
 * 🎬 Creative Automation
 * 🧩 Product Design
 * 🚀 Startup Innovation
@@ -49,11 +98,11 @@ I build at the intersection of:
 
 ## 🔥 Highlights
 
-* 🚀 Founder of **RunAsh AI (Text → Demo Video Platform)**
-* 🧠 Architect of multi-agent AI pipelines
-* 🤗 Hugging Face model & dataset contributor
-* 🏆 Open-source AI builder & Kaggle practitioner
-* ⚡ Building for YC & global scale
+* 🚀 Founder & AI Lead across three connected entities
+* 🧠 Architect of multi-agent AI pipelines (text → demo video)
+* 🛍️ Applied research focus on Agentic AI + Live Commerce/Payments AI
+* 🏗️ Building the Hugging Face presence for all three brands from the ground up
+* ⚡ Building for scale — pre-launch, foundations first
 
 ---
 
@@ -96,30 +145,36 @@ Execution Simulation
 
 ## 🏗️ Featured Projects
 
-| Project             | Description                          | Tech                     |
-| ------------------- | ------------------------------------ | ------------------------ |
-| 🚀 RunAsh AI        | Text → Demonstration Video Engine    | AI Agents, Python, React |
-| 💬 RunAsh Chat      | Conversational AI for live streaming | Transformers, WebSockets |
-| 🧠 Sentiment AI Bot | Emotion-aware support chatbot        | FastAPI, Hugging Face    |
-| 📊 LSCD Dataset     | Live streaming chat dataset          | NLP, Annotation          |
+| Project             | Description                          | Tech                     | Status         |
+| ------------------- | ------------------------------------ | ------------------------ | -------------- |
+| 🚀 RunAsh AI        | Text → Demonstration Video Engine    | AI Agents, Python, React | In development |
+| 💬 RunAsh Chat      | Conversational AI for live streaming | Transformers, WebSockets | In development |
+| 🧠 Sentiment AI Bot | Emotion-aware support chatbot        | FastAPI, Hugging Face    | In development |
+| 📊 LSCD Dataset     | Live streaming chat dataset          | NLP, Annotation          | In development |
 
 ---
 
-## 🧠 AI Models & Datasets
+<details>
+<summary><b>🤗 Hugging Face Presence (click to expand)</b></summary>
+<br/>
 
-* 🤖 RunAsh Language Model (RALM)
-  [https://huggingface.co/RamMurmu/RunAsh-Language-Model](https://huggingface.co/RamMurmu/RunAsh-Language-Model)
+All three orgs are currently pre-launch — no live model or dataset publications yet. Links will go live as each org and its first publications are established.
 
-* 📊 Live Streaming Chat Dataset (LSCD)
-  [https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset](https://huggingface.co/datasets/RamMurmu/Live-Streaming-Chat-Dataset)
+| Entity | Hugging Face Org | Status |
+|---|---|---|
+| Runash Digital | *(pending)* | Org setup in progress |
+| RunAsh AI | *(pending)* | Org setup in progress |
+| Frontier Labs | *(pending)* | Org setup in progress |
+
+</details>
 
 ---
 
 ## 📈 Traction (Updating)
 
-* 🚀 MVP in progress
-* 👥 Early users onboarding
-* 🎬 Demo videos being generated
+* 🏗️ Brand & Hugging Face presence in active setup
+* 🎬 Demo video pipeline in development
+* 🧪 First research publications in progress
 * 🌍 Applying to Y Combinator
 
 ---
@@ -154,7 +209,7 @@ Open to:
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://huggingface.co/rammurmu">
-    <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=for-the-badge"/>
   </a>
 </p>
 
@@ -193,7 +248,7 @@ MIT License
 <details>
   <summary>More About Me</summary>
 
-* Founder building AI for real-world simulation
+* Founder building a connected AI brand across research, product, and infrastructure
 * Passionate about turning ideas into experiences
 * Focused on global impact through AI
 
@@ -206,8 +261,3 @@ MIT License
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
-```
-
----
-
-
